@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.default_lang }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <style>
+      .language-switcher {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        z-index: 1000;
+      }
+      .language-switcher a {
+        display: inline-block;
+        padding: 8px 12px;
+        margin: 0 2px;
+        background-color: #f8f9fa;
+        color: #333;
+        text-decoration: none;
+        border: 1px solid #dee2e6;
+        border-radius: 4px;
+        font-size: 14px;
+        transition: background-color 0.2s;
+      }
+      .language-switcher a:hover {
+        background-color: #e9ecef;
+      }
+      .language-switcher a.current {
+        background-color: #007bff;
+        color: white;
+        border-color: #007bff;
+      }
+      .site-header {
+        position: relative;
+        padding-top: 40px;
+      }
+      .site-header .wrapper {
+        display: flex;
+        align-items: baseline;
+        gap: 30px;
+      }
+      .site-title {
+        margin-bottom: 0;
+        flex-shrink: 0;
+        font-size: 2.25em;
+        transform: scale(1.5);
+        transform-origin: left center;
+      }
+      .site-description {
+        margin-bottom: 0;
+        flex-grow: 1;
+        font-size: 1.2em;
+        transform: scale(1.2);
+        transform-origin: left center;
+        margin-left: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="language-switcher">
+      {% if page.lang == 'ja' %}
+        <a href="/" class="current">日本語</a>
+        <a href="/index_en.html">English</a>
+      {% else %}
+        <a href="/">日本語</a>
+        <a href="/index_en.html" class="current">English</a>
+      {% endif %}
+    </div>
+
+    <header class="site-header">
+      <div class="wrapper">
+        <h1 class="site-title">{{ site.title }}</h1>
+        <p class="site-description">{{ site.description }}</p>
+      </div>
+    </header>
+
+    <main class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrapper">
+        <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+      </div>
+    </footer>
+  </body>
+</html>

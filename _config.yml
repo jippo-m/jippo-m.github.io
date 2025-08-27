@@ -1,3 +1,7 @@
 title: jippo
 description: jippoのポートフォリオサイト
 theme: minima  # GitHub Pagesで使える公式テーマ
+
+# 多言語設定
+languages: ["ja", "en"]
+default_lang: "ja"

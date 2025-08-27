@@ -1,6 +1,7 @@
 ---
 layout: default
 title: My Portfolio
+lang: ja
 ---
 
 
