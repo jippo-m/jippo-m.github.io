@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Portfolio
+title: jippo | Ayane Morishita's Profile
 lang: ja
 ---
 
