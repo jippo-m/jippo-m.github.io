@@ -72,3 +72,27 @@ a[href^="tel:"]{
   pointer-events: none; /* クリックも無効化したい場合 */
   cursor: default;
 }
+
+details {
+  margin-left: 40px; /* 箇条書きのインデント */
+  margin-bottom: 0.5rem; /* 項目間の行間 */
+}
+details summary {
+  list-style: none;
+  display: list-item; /* 箇条書きっぽく振る舞わせる */
+  cursor: pointer;
+}
+details summary::before{
+  content: "▶";        /* 箇条の記号 */
+  color: #2b2b2b;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+  margin-right: 0.5em;
+}
+.details-box{
+  background: #DCEEFF; /* パステルブルー */
+  padding: 10px;
+  border-radius: 8px;
+  margin-top: 8px;
+}

@@ -4,14 +4,33 @@ title: jippo | Ayane Morishita's Profile
 lang: en
 ---
 
+Thank you for visiting my website!\\
+Items starting with “▶” can be clicked to display more details.
+
 ## Education
 - 2022/04 - 2023/03: Institute of Science Tokyo, School of Life Science and Technology
 - 2023/04 - 2025/09: Institute of Science Tokyo, School of Engineering, Department of Information and Communications Engineering (Transfer, Early graduation from bachelor's program)
 - 2025/09 - present: Institute of Science Tokyo Graduate School, School of Engineering, Department of Information and Communications Engineering
 
 ## Research
-- <u>Ayane Morishita</u>, Tomosuke Ichioka, Mingyu Yang, and Yuko Hara, "**HCLL-Lock: Hardware IP protection method with high resilience to functional attacks**", Computer Security Symposium (CSS), Okayama, Japan, October 2025 (**Student Paper Award**)
-- <u>Ayane Morishita</u>, Tomosuke Ichioka, Mingyu Yang, and Yuko Hara, "**Hardware IP Protection Method Balancing Resilience to Diverse Functional Attacks**", Computer Security Symposium (CSS), Okayama, Japan, October 2025 (**Conditionally Accepted**)
+<details>
+    <summary>
+    <u>Ayane Morishita</u>, Tomosuke Ichioka, Mingyu Yang, and Yuko Hara, "<b>HCLL-Lock: Hardware IP protection method with high resilience to functional attacks</b>", Computer Security Symposium (CSS), Okayama, Japan, October 2025 (<b>Student Paper Award</b>)
+    </summary>
+    <div class="details-box">
+    Presenting my research outside the university for the first time and receiving various questions and feedback really boosted my motivation. I was also delighted to receive the Student Paper Award.
+    </div>
+</details>
+
+<details>
+    <summary>
+    <u>Ayane Morishita</u>, Tomosuke Ichioka, Mingyu Yang, and Yuko Hara, "<b>Hardware IP Protection Method Balancing Resilience to Diverse Functional Attacks</b>", Computer Security Symposium (CSS), Okayama, Japan, October 2025 (<b>Conditionally Accepted</b>)
+    </summary>
+    <div class="details-box">
+    Since the paper I presented at CSS2025 was accepted as a recommended paper, I submitted an expanded version—incorporating additional experiments and analysis—to the IPSJ Journal.
+    We have received a conditional acceptance (with one reviewer recommending immediate acceptance), and we are currently working on the final revisions.
+    </div>
+</details>
 
 ## International Experiences
 - 2025/02 - 2025/03: Very Short-term Study Abroad Program (UK)
