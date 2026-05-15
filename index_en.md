@@ -10,7 +10,8 @@ lang: en
 - 2025/09 - present: Institute of Science Tokyo Graduate School, School of Engineering, Department of Information and Communications Engineering
 
 ## Research
-- **Student Paper Award** for the paper "HCLL-Lock: Hardware IP protection method with high resilience to functional attacks", Computer Security Symposium (CSS), Okayama, Japan, October 2025
+- <u>Ayane Morishita</u>, Tomosuke Ichioka, Mingyu Yang, and Yuko Hara, "**HCLL-Lock: Hardware IP protection method with high resilience to functional attacks**", Computer Security Symposium (CSS), Okayama, Japan, October 2025 (**Student Paper Award**)
+- <u>Ayane Morishita</u>, Tomosuke Ichioka, Mingyu Yang, and Yuko Hara, "**Hardware IP Protection Method Balancing Resilience to Diverse Functional Attacks**", Computer Security Symposium (CSS), Okayama, Japan, October 2025 (**Conditionally Accepted**)
 
 ## Study Abroad
 - 2025/02 - 2025/03: Very Short-term Study Abroad Program (UK)
