@@ -13,7 +13,7 @@ lang: en
 - <u>Ayane Morishita</u>, Tomosuke Ichioka, Mingyu Yang, and Yuko Hara, "**HCLL-Lock: Hardware IP protection method with high resilience to functional attacks**", Computer Security Symposium (CSS), Okayama, Japan, October 2025 (**Student Paper Award**)
 - <u>Ayane Morishita</u>, Tomosuke Ichioka, Mingyu Yang, and Yuko Hara, "**Hardware IP Protection Method Balancing Resilience to Diverse Functional Attacks**", Computer Security Symposium (CSS), Okayama, Japan, October 2025 (**Conditionally Accepted**)
 
-## Study Abroad
+## International Experiences
 - 2025/02 - 2025/03: Very Short-term Study Abroad Program (UK)
 - 2026/02 - 2026/07: Exchange Study Abroad Program (Ghent University, Belgium)
 
@@ -28,8 +28,8 @@ lang: en
 - 2025/10:           Womens's Empowerment Forum 2025: Student Panelist
 
 ## Certifications
-- TOEIC L&R: 865 points
-- TOEFL-ITP: 557 points
+- TOEIC L&R: 865 points (August 2025)
+- TOEFL-ITP: 557 points (April 2024)
 - Global Scientists and Engineers Course (GSEC): Completed Basic and Intermediate levels
 
 ## Links
