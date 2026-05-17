@@ -15,6 +15,32 @@
         right: 20px;
         z-index: 1000;
       }
+      .theme-switcher {
+        position: absolute;
+        top: 20px;
+        right: 125px;
+        z-index: 1000;
+      }
+      .theme-switcher button {
+        background: #f8f9fa;
+        border: 1px solid #dee2e6;
+        padding: 8px 12px;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 14px;
+      }
+      /* Light mode: make the theme button appear dark (like night) */
+      body:not(.theme-dark) .theme-switcher button {
+        background: #333333;
+        color: #ffffff;
+        border-color: #444444;
+      }
+      /* Dark mode: make the theme button appear light */
+      body.theme-dark .theme-switcher button {
+        background: #f8f9fa;
+        color: #222222;
+        border-color: #dee2e6;
+      }
       .language-switcher a {
         display: inline-block;
         padding: 8px 12px;
@@ -45,11 +71,23 @@
         gap: 30px;
       }
       .site-title {
-        margin-bottom: 0;
+        margin-bottom: 20px;
         flex-shrink: 0;
         font-size: 2.25em;
         transform: scale(1.5);
         transform-origin: left center;
+      }
+      .site-title .site-title-line {
+        display: inline;
+      }
+      @media (max-width: 640px) {
+        .site-title {
+          font-size: 2.25em;
+          transform: none;
+        }
+        .site-title .site-title-line {
+          display: block;
+        }
       }
       .site-description {
         display: none;
@@ -65,17 +103,29 @@
   <body>
     <div class="language-switcher">
       {% if page.lang == 'ja' %}
-        <a href="/" class="current">日本語</a>
-        <a href="/index_en.html">English</a>
+        <a href="/" class="current">Ja</a>
+        <a href="/index_en.html">En</a>
       {% else %}
-        <a href="/">日本語</a>
-        <a href="/index_en.html" class="current">English</a>
+        <a href="/">Ja</a>
+        <a href="/index_en.html" class="current">En</a>
       {% endif %}
+    </div>
+
+    <div class="theme-switcher">
+      <button id="theme-toggle" aria-label="Toggle theme">🌙</button>
     </div>
 
     <header class="site-header">
       <div class="wrapper">
-        <h1 class="site-title">{{ site.title }}</h1>
+        <h1 class="site-title">
+          {% if site.title_lines %}
+            {% for line in site.title_lines %}
+              <span class="site-title-line">{{ line }}</span>{% unless forloop.last %} {% endunless %}
+            {% endfor %}
+          {% else %}
+            {{ site.title }}
+          {% endif %}
+        </h1>
         <p class="site-description">{{ site.description }}</p>
       </div>
     </header>
@@ -91,5 +141,6 @@
         <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
       </div>
     </footer>
+    <script src="{{ '/assets/js/theme-toggle.js' | relative_url }}"></script>
   </body>
 </html>
