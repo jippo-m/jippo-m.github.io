@@ -11,12 +11,12 @@ lang: ja
 <!-- When, Where What and How did I do? -->
 <!-- What I learned -->
 
-## 学歴
+## 🎓 学歴
 - 2022/04 - 2023/03: 東京科学大学 生命理工学院
 - 2023/04 - 2025/09: 東京科学大学 工学院 情報通信系（転学院、学士課程半年早期卒業）
 - 2025/09 - present: 東京科学大学大学院 工学院 情報通信系 情報通信コース
 
-## 研究活動
+## 🥼 研究活動
 <details>
     <summary>
         <u>森下 彩音</u>，一岡 知佑，楊 明宇，原 祐子，"<b>HCLL-Lock：機能攻撃への高い耐性を持つハードウェアIP保護手法</b>," <a href="https://www.iwsec.org/css/2025/" target="_blank" rel="noopener">コンピュータセキュリティシンポジウム2025(CSS2025)</a>，岡山，2025年10月（※<b>学生論文賞</b>）
@@ -36,7 +36,7 @@ lang: ja
     </div>
 </details>
 
-## 国際経験
+## 🌎 国際経験
 <details>
     <summary>
         2025/02 - 2025/03: 超短期留学（イギリス）
@@ -65,18 +65,20 @@ lang: ja
     </div>
 </details>
 
-## 課外活動
+## 👥 所属団体
 <details>
     <summary>
-        2023/05 - 2023/06: <a href="https://landing.google.com/intl/ALL_jp/step/program/" target="_blank" rel="noopener">Google STEP教育コース</a>
+        2022/04 - present: <a href="https://trap.jp/" target="_blank" rel="noopener">東京科学大学デジタル創作同好会traP</a>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
-        デジタル創作同好会traPの先輩からおすすめされて参加しました。<br>
-        <!-- When, Where What and How did I do? --> <!-- What I learned -->
-        毎週3時間の講義+宿題により、コンピュータサイエンスの基礎を学ぶことができ、他学生との交流もできました。
-        系所属をしたばかりの学士2年生の5-6月に参加したので、専門知識がほぼ無い状態で大変でしたが、とても学びの多いプログラムでした。
-        自作OSという概念を知ることができたのも、このプログラムのおかげです。
+        高校時代にゲーム制作サークルを探していたところ、このサークルのHPにたどり着き、「入ってみたい...！」と思ったのが東京科学大学を目指すきっかけになりました。<br>
+        <!-- When, Where What and How did I do it? -->
+        <!-- What I learned -->
+        入学してからは、ゲーム制作よりもコンピュータに関する技術全般に興味が出てきたので、様々な班の活動を経験しました。
+        SysAd班ではWebアプリ制作、CTF班ではCTF、アルゴリズム班では競技プログラミング、Kaggle班ではKaggle...といったように、様々な活動にチャレンジすることができ、視野が広がりました。
+        また、グラフィックス班で絵を描いています。
+        <br>
     </div>
 </details>
 <details>
@@ -91,6 +93,21 @@ lang: ja
         また、全国のピアサポート団体が集まる「ぴあのわ」というイベントに参加して、より良いピアサポートを研究・実践しています。<br>
         <!-- What I learned -->
         これらの活動を通じて、傾聴の姿勢や、相手に寄り添う姿勢などが向上しました。
+    </div>
+</details>
+
+## 🚀 課外活動
+<details>
+    <summary>
+        2023/05 - 2023/06: <a href="https://landing.google.com/intl/ALL_jp/step/program/" target="_blank" rel="noopener">Google STEP教育コース</a>
+    </summary>
+    <div class="details-box">
+        <!-- Why did I participate? -->
+        デジタル創作同好会traPの先輩からおすすめされて参加しました。<br>
+        <!-- When, Where What and How did I do? --> <!-- What I learned -->
+        毎週3時間の講義+宿題により、コンピュータサイエンスの基礎を学ぶことができ、他学生との交流もできました。
+        系所属をしたばかりの学士2年生の5-6月に参加したので、専門知識がほぼ無い状態で大変でしたが、とても学びの多いプログラムでした。
+        自作OSという概念を知ることができたのも、このプログラムのおかげです。
     </div>
 </details>
 <details>
@@ -167,11 +184,11 @@ lang: ja
     </div>
 </details>
 
-## 資格など
+## 📜 資格など
 - TOEIC L&R: 865 points (2025年8月)
 - TOEFL-ITP: 557 points (2024年4月)
 - グローバル理工人育成コース: 初級・中級修了
 
-## リンク
+## 🔗 リンク
 - ブログ: [https://trap.jp/author/jippo/](https://trap.jp/author/jippo/)
 - GitHub: [https://github.com/jippo-m](https://github.com/jippo-m)

@@ -7,12 +7,12 @@ lang: en
 Thank you for visiting my website!\\
 Items starting with “▶” can be clicked to display more details.
 
-## Education
+## 🎓 Education
 - 2022/04 - 2023/03: Institute of Science Tokyo, School of Life Science and Technology
 - 2023/04 - 2025/09: Institute of Science Tokyo, School of Engineering, Department of Information and Communications Engineering (Transfer, Early graduation from bachelor's program)
 - 2025/09 - present: Institute of Science Tokyo Graduate School, School of Engineering, Department of Information and Communications Engineering
 
-## Research
+## 🥼 Research
 <details>
     <summary>
         <u>Ayane Morishita</u>, Tomosuke Ichioka, Mingyu Yang, and Yuko Hara, "<b>HCLL-Lock: Hardware IP protection method with high resilience to functional attacks</b>", Computer Security Symposium (CSS), Okayama, Japan, October 2025 (<b>Student Paper Award</b>)
@@ -32,7 +32,7 @@ Items starting with “▶” can be clicked to display more details.
     </div>
 </details>
 
-## International Experiences
+## 🌎 International Experiences
 <details>
     <summary>
         2025/02 - 2025/03: Very Short-term Study Abroad Program (UK)
@@ -54,18 +54,19 @@ Items starting with “▶” can be clicked to display more details.
     </div>
 </details>
 
-## Extracurricular Activities
+## 👥 Affiliation
 <details>
     <summary>
-        2023/05 - 2023/06: Google STEP Educational Course
+        2022/04 - present: <a href="https://trap.jp/" target="_blank" rel="noopener">Digital Creators Club traP</a>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
-        I joined this program because it was recommended by a senior member of the digital creation club, traP.<br>
-        <!-- When, Where What and How did I do? --> <!-- What I learned -->
-        Through three hours of lectures each week plus homework assignments, I was able to learn the fundamentals of computer science and interact with other students.
-        I participated in May and June of my second year of undergraduate studies, right after joining the department, so it was challenging since I had almost no specialized knowledge, but it was a program where I learned a great deal.
-        It was also thanks to this program that I was introduced to the concept of building my own operating system.
+        When I was in high school, I was looking for a game development club and came across this club’s website. The moment I thought, “I want to join this…!” was what motivated me to apply to Institute of Science Tokyo. <br>
+        <!-- When, Where, What, and How Did I Do It? -->
+        <!-- What I Learned -->
+        After enrolling, I became more interested in computer technology in general than in game development, so I participated in various club activities.
+        In the SysAd group, I worked on web app development; in the CTF group, I participated in CTFs; in the Algorithms group, I did competitive programming; and in the Kaggle group, I worked on Kaggle challenges... By taking on these diverse activities, I was able to broaden my horizons.
+        I also draw illustrations in the Graphics group.
     </div>
 </details>
 <details>
@@ -80,6 +81,21 @@ Items starting with “▶” can be clicked to display more details.
         We also participate in “Peer no Wa,” an event where peer support groups from across the country gather, to research and implement better peer support practices.<br>
         <!-- What I learned -->
         Through these experiences, I’ve improved my ability to listen actively and empathize with others.
+    </div>
+</details>
+
+## 🚀 Extracurricular Activities
+<details>
+    <summary>
+        2023/05 - 2023/06: Google STEP Educational Course
+    </summary>
+    <div class="details-box">
+        <!-- Why did I participate? -->
+        I joined this program because it was recommended by a senior member of the Digital Creators Club traP.<br>
+        <!-- When, Where What and How did I do? --> <!-- What I learned -->
+        Through three hours of lectures each week plus homework assignments, I was able to learn the fundamentals of computer science and interact with other students.
+        I participated in May and June of my second year of undergraduate studies, right after joining the department, so it was challenging since I had almost no specialized knowledge, but it was a program where I learned a great deal.
+        It was also thanks to this program that I was introduced to the concept of building my own operating system.
     </div>
 </details>
 <details>
@@ -153,11 +169,11 @@ Items starting with “▶” can be clicked to display more details.
     </div>
 </details>
 
-## Certifications
+## 📜 Certifications
 - TOEIC L&R: 865 points (August 2025)
 - TOEFL-ITP: 557 points (April 2024)
 - Global Scientists and Engineers Course (GSEC): Completed Basic and Intermediate levels
 
-## Links
+## 🔗 Links
 - Blog: [https://trap.jp/author/jippo/](https://trap.jp/author/jippo/)
 - GitHub: [https://github.com/jippo-m](https://github.com/jippo-m)
