@@ -9,16 +9,16 @@
     <meta name="description" content="{{ page.description | default: site.description }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     <style>
-      .language-switcher {
+      .top-controls {
         position: absolute;
         top: 20px;
         right: 20px;
         z-index: 1000;
+        display: flex;
+        gap: 8px;
+        align-items: center;
       }
       .theme-switcher {
-        position: absolute;
-        top: 20px;
-        right: 125px;
         z-index: 1000;
       }
       .theme-switcher button {
@@ -132,7 +132,11 @@
     </style>
   </head>
   <body>
-    <div class="language-switcher">
+    <div class="top-controls">
+      <div class="theme-switcher">
+        <button id="theme-toggle" aria-label="Toggle theme">🌙</button>
+      </div>
+      <div class="language-switcher">
       {% if page.lang == 'ja' %}
         <a href="/" class="current">Ja</a>
         <a href="/index_en.html">En</a>
@@ -140,10 +144,9 @@
         <a href="/">Ja</a>
         <a href="/index_en.html" class="current">En</a>
       {% endif %}
-    </div>
-
-    <div class="theme-switcher">
-      <button id="theme-toggle" aria-label="Toggle theme">🌙</button>
+      </div>
+      <!-- hamburger next to language switcher -->
+      <button class="mobile-hamburger" id="mobile-hamburger" aria-label="Open menu" aria-expanded="false">☰</button>
     </div>
 
     <header class="site-header">
@@ -207,6 +210,36 @@
       </nav>
     </aside>
 
+    <!-- mobile slide-in menu (right -> left) -->
+    <div class="mobile-menu-overlay" id="mobile-menu-overlay" aria-hidden="true"></div>
+    <nav class="mobile-menu" id="mobile-menu" aria-hidden="true" aria-label="Mobile Menu">
+      <div class="mobile-menu-header">
+        <button id="mobile-menu-close" aria-label="Close menu">✕</button>
+      </div>
+      <ul>
+        <li>
+          {% if page.lang == 'ja' %}
+            <a href="{{ '/' | relative_url }}" {% if page.url == '/' or page.url == '/index.html' %}class="active"{% endif %}>HOME</a>
+          {% else %}
+            <a href="{{ '/index_en.html' | relative_url }}" {% if page.url == '/index_en.html' %}class="active"{% endif %}>HOME</a>
+          {% endif %}
+        </li>
+        <li>
+          {% if page.lang == 'ja' %}
+            <a href="{{ '/resume.html' | relative_url }}" {% if page.url == '/resume.html' or page.url == '/resume_en.html' %}class="active"{% endif %}>Resume</a>
+          {% else %}
+            <a href="{{ '/resume_en.html' | relative_url }}" {% if page.url == '/resume_en.html' or page.url == '/resume.html' %}class="active"{% endif %}>Resume</a>
+          {% endif %}
+        </li>
+        <li>
+          {% if page.lang == 'ja' %}
+            <a href="{{ '/works.html' | relative_url }}" {% if page.url == '/works.html' or page.url == '/works_en.html' %}class="active"{% endif %}>Works</a>
+          {% else %}
+            <a href="{{ '/works_en.html' | relative_url }}" {% if page.url == '/works_en.html' or page.url == '/works.html' %}class="active"{% endif %}>Works</a>
+          {% endif %}
+        </li>
+      </ul>
+    </nav>
     <footer class="site-footer">
       <div class="wrapper">
         <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
@@ -214,5 +247,6 @@
     </footer>
     <script src="{{ '/assets/js/theme-toggle.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/toc.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/mobile-menu.js' | relative_url }}"></script>
   </body>
 </html>
