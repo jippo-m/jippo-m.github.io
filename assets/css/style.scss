@@ -15,6 +15,11 @@
   --title-color: #0366d6;
   --footer-text: #586069;
   --h2-border: #eaecef;
+  /* layout variables */
+  --content-width: 800px; /* main content max width (kept as before) */
+  --content-half: 400px; /* half of content width for positioning calculations */
+  --sidebar-width: 160px;
+  --rightbar-width: 140px;
 }
 
 .theme-dark{
@@ -40,9 +45,10 @@ body {
 }
 
 .wrapper {
-  max-width: 800px;
+  max-width: var(--content-width);
   margin: 0 auto;
   padding: 0 20px;
+  box-sizing: border-box;
 }
 
 .site-header {
@@ -65,6 +71,75 @@ body {
 
 .page-content {
   min-height: 70vh;
+}
+
+/* Layout for content with left sidebar TOC */
+.content-area {
+  display: flex;
+  gap: 28px;
+  align-items: flex-start;
+}
+.leftbar {
+  width: var(--sidebar-width);
+  flex-shrink: 0;
+  position: fixed; /* fixed to viewport so main content width remains unchanged */
+  top: 160px; /* stays below header */
+  left: max(12px, calc(50% - var(--content-half) - var(--sidebar-width) - 20px));
+  background: transparent;
+}
+.leftbar .toc-header {
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+.leftbar nav {
+  font-size: 0.95rem;
+}
+.leftbar nav a {
+  display: block;
+  padding: 6px 10px;
+  border-radius: 6px;
+  color: var(--text);
+  text-decoration: none;
+}
+.leftbar nav a:hover { background: rgba(0,0,0,0.03); }
+.leftbar nav a.toc-active { font-weight: 600; }
+.main-content { flex: 1 1 auto; }
+
+@media (max-width: 900px) {
+  .content-area { display: block; }
+  .leftbar { display: none; }
+}
+
+/* right sidebar for page navigation */
+.rightbar {
+  width: var(--rightbar-width);
+  position: fixed;
+  top: 120px;
+  left: min(calc(100% - var(--rightbar-width) - 12px), calc(50% + var(--content-half) + 20px));
+}
+.site-nav-vertical ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.site-nav-vertical a {
+  display: block;
+  padding: 8px 12px;
+  border-radius: 8px;
+  text-decoration: none;
+  color: var(--text);
+  background: #f1f3f5;
+  border: 1px solid #e9ecef;
+  text-align: center;
+}
+.site-nav-vertical a:hover { background: #e9ecef; }
+.site-nav-vertical a.active { background: #007bff; color: #fff; border-color: #007bff; }
+
+@media (max-width: 900px) {
+  .rightbar { display: none; }
 }
 
 .site-footer {
