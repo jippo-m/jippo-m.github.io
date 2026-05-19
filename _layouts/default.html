@@ -191,13 +191,6 @@
           </li>
           <li>
             {% if page.lang == 'ja' %}
-              <a href="{{ '/about.html' | relative_url }}" {% if page.url == '/about.html' or page.url == '/about_en.html' %}class="active"{% endif %}>About Me</a>
-            {% else %}
-              <a href="{{ '/about_en.html' | relative_url }}" {% if page.url == '/about_en.html' or page.url == '/about.html' %}class="active"{% endif %}>About Me</a>
-            {% endif %}
-          </li>
-          <li>
-            {% if page.lang == 'ja' %}
               <a href="{{ '/resume.html' | relative_url }}" {% if page.url == '/resume.html' or page.url == '/resume_en.html' %}class="active"{% endif %}>Resume</a>
             {% else %}
               <a href="{{ '/resume_en.html' | relative_url }}" {% if page.url == '/resume_en.html' or page.url == '/resume.html' %}class="active"{% endif %}>Resume</a>
