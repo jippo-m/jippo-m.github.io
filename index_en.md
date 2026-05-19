@@ -34,7 +34,7 @@ Ultimately, I hope to **contribute to the world as a researcher or developer wit
 - LaTeX: Used for writing academic papers for conference presentations.
 - Verilog HDL manipulation (using Python, etc.): Gained experience analyzing and partially modifying target Verilog circuits via scripting during the implementation of logic locking. Able to read and understand basic circuit logic.
 
-### Frameworks & Dev Tools
+### 🔧 Frameworks & Dev Tools
 - Vue.js：Used for building web applications at hackathons.
 - Git / GitHub：Source code version control for individual and team development.
 
@@ -46,7 +46,7 @@ Ultimately, I hope to **contribute to the world as a researcher or developer wit
 ## 🥼 Research
 <details>
     <summary>
-        <u>Ayane Morishita</u>, Tomosuke Ichioka, Mingyu Yang, and Yuko Hara, "<b>HCLL-Lock: Hardware IP protection method with high resilience to functional attacks</b>", Computer Security Symposium (CSS), Okayama, Japan, October 2025 (<b>Student Paper Award</b>)
+        <u>Ayane Morishita</u>, Tomosuke Ichioka, Mingyu Yang, and Yuko Hara, "<a href="https://cir.nii.ac.jp/crid/1050026271561972352" target="_blank" rel="noopener"><b>HCLL-Lock: Hardware IP protection method with high resilience to functional attacks</b></a>", Computer Security Symposium (CSS), Okayama, Japan, October 2025 (<b>Student Paper Award</b>)
     </summary>
     <div class="details-box">
         Presenting my research outside the university for the first time and receiving various questions and feedback really boosted my motivation. I was also delighted to receive the Student Paper Award.

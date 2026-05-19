@@ -50,7 +50,7 @@ lang: ja
 ## 🥼 研究活動
 <details>
     <summary>
-        <u>森下 彩音</u>，一岡 知佑，楊 明宇，原 祐子，"<b>HCLL-Lock：機能攻撃への高い耐性を持つハードウェアIP保護手法</b>," <a href="https://www.iwsec.org/css/2025/" target="_blank" rel="noopener">コンピュータセキュリティシンポジウム2025(CSS2025)</a>，岡山，2025年10月（※<b>学生論文賞</b>）
+        <u>森下 彩音</u>，一岡 知佑，楊 明宇，原 祐子，"<a href="https://cir.nii.ac.jp/crid/1050026271561972352" target="_blank" rel="noopener"><b>HCLL-Lock：機能攻撃への高い耐性を持つハードウェアIP保護手法</b></a>," <a href="https://www.iwsec.org/css/2025/" target="_blank" rel="noopener">コンピュータセキュリティシンポジウム2025(CSS2025)</a>，岡山，2025年10月（※<b>学生論文賞</b>）
     </summary>
     <div class="details-box">
         初めて自分の研究を学外で発表して様々な質問や意見をいただき、モチベーションの向上につながりました。学生論文賞をいただけたことも嬉しかったです。
