@@ -1,6 +1,6 @@
 ---
 layout: default
-title: jippo | Ayane Morishita's Profile
+title: jippo | Ayane Morishita's Website
 lang: en
 ---
 
