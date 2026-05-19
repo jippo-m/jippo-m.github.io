@@ -1,4 +1,5 @@
-// Simple TOC generator: collects h2 and h3 inside .main-content and builds links into #toc
+// Simple TOC (Table of Contents) generator:
+// collects h2 and h3 inside .main-content and builds links into #toc
 (function(){
   function slugify(text){
     return text.toString().toLowerCase().trim()
@@ -12,7 +13,6 @@
     if(!content) return;
     var headings = content.querySelectorAll('h2, h3');
     if(headings.length === 0){
-      container.innerHTML = '<p style="color:var(--muted);">目次はありません</p>';
       return;
     }
     var ul = document.createElement('ul');

@@ -6,9 +6,8 @@ lang: en
 
 # 🏠 HOME
 
-Thank you for visiting my website!
-
-<a id="about"></a>
+Thank you for visiting my website!<br>
+My detailed work history can be found on the [“Resume”](https://jippo-m.github.io/resume_en.html) page, and my portfolio is available on the [“Works”](https://jippo-m.github.io/works_en.html) page.
 
 ## 🌟 About Me
 

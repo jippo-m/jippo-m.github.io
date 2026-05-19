@@ -13,6 +13,7 @@
     menu.setAttribute('aria-hidden','false');
     overlay.setAttribute('aria-hidden','false');
     document.body.style.overflow = 'hidden';
+    document.body.classList.add('mobile-menu-open');
   }
   function closeMenu(){
     if(!menu) return;
@@ -22,6 +23,7 @@
     menu.setAttribute('aria-hidden','true');
     overlay.setAttribute('aria-hidden','true');
     document.body.style.overflow = '';
+    document.body.classList.remove('mobile-menu-open');
   }
   if(hamburger){ hamburger.addEventListener('click', openMenu); }
   if(closeBtn){ closeBtn.addEventListener('click', closeMenu); }
