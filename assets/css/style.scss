@@ -84,7 +84,7 @@ body {
   flex-shrink: 0;
   position: fixed; /* fixed to viewport so main content width remains unchanged */
   top: 160px; /* stays below header */
-  left: max(12px, calc(50% - var(--content-half) - var(--sidebar-width) - 20px));
+  left: max(12px, calc(50% - var(--content-half) - var(--sidebar-width) - 30px));
   background: transparent;
 }
 .leftbar .toc-header {
@@ -92,11 +92,11 @@ body {
   margin-bottom: 8px;
 }
 .leftbar nav {
-  font-size: 0.95rem;
+  font-size: 0.85rem;
 }
 .leftbar nav a {
   display: block;
-  padding: 6px 10px;
+  padding: 6px 0px;
   border-radius: 6px;
   color: var(--text);
   text-decoration: none;
@@ -187,16 +187,19 @@ details {
 }
 details summary {
   list-style: none;
-  display: list-item; /* 箇条書きっぽく振る舞わせる */
+  display: list-item; /* behave like a list item so long text wraps naturally */
+  position: relative; /* for absolute-positioned marker */
+  padding-left: 1.4em; /* space for the marker */
   cursor: pointer;
 }
 details summary::before{
   content: "▶";        /* 箇条の記号 */
   color: var(--summary-symbol);
+  position: absolute;
+  left: 0;
+  top: 0.08em; /* small offset to vertically center the marker */
   display: inline-block;
   width: 1em;
-  margin-left: -1em;
-  margin-right: 0.5em;
 }
 .details-box{
   background: var(--details-bg);
@@ -205,4 +208,10 @@ details summary::before{
   border-radius: 8px;
   margin-top: 8px;
 }
+/* Resumeを見やすくする */
+.resume-entry { display: inline-flex; gap: 1rem; align-items: flex-start; }
+.resume-date { width: 12rem; flex-shrink: 0; font-weight: 600; align-self: flex-start; }
+.resume-activity { flex: 1; }
+@media (max-width: 640px) { .resume-entry { display: block; } .resume-date { width: auto; margin-bottom: 0.25rem; } }
+
 /* 追加のテーマ対応スタイルはここに */

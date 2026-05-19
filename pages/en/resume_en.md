@@ -4,13 +4,14 @@ title: Resume
 lang: en
 permalink: /resume_en.html
 ---
-
 # 📄 Resume
 
+Items starting with “▶” can be clicked to display more details.
+
 ## 🎓 Education
-- 2022/04 - 2023/03: Institute of Science Tokyo, School of Life Science and Technology
-- 2023/04 - 2025/09: Institute of Science Tokyo, School of Engineering, Department of Information and Communications Engineering (Transfer, Early graduation from bachelor's program)
-- 2025/09 - present: Institute of Science Tokyo Graduate School, School of Engineering, Department of Information and Communications Engineering
+- <span class="resume-entry"><span class="resume-date">2022.04 - 2023.03</span><span class="resume-activity">Institute of Science Tokyo, School of Life Science and Technology</span></span>
+- <span class="resume-entry"><span class="resume-date">2023.04 - 2025.09</span><span class="resume-activity">Institute of Science Tokyo, School of Engineering, Department of Information and Communications Engineering (Transfer, Early graduation from bachelor's program)</span></span>
+- <span class="resume-entry"><span class="resume-date">2025.09 - present</span><span class="resume-activity">Institute of Science Tokyo Graduate School, School of Engineering, Department of Information and Communications Engineering</span></span>
 
 ## 🥼 Research
 <details>
@@ -35,7 +36,7 @@ permalink: /resume_en.html
 ## 🌎 International Experiences
 <details>
     <summary>
-        2025/02 - 2025/03: Very Short-term Study Abroad Program (UK)
+        <span class="resume-entry"><span class="resume-date">2025.02 - 2025.03</span><span class="resume-activity">Very Short-term Study Abroad Program (UK)</span></span>
     </summary>
     <div class="details-box">
         I participated in the program during spring break, just before starting my senior year of undergraduate studies. We wrote <a href="https://www.ghrd.titech.ac.jp/world/uk-sreport/" target="_blank" rel="noopener">a short report</a> and <a href="https://www.ghrd.titech.ac.jp/world/2025uk/" target="_blank" rel="noopener">a final report</a>.<br>
@@ -45,7 +46,7 @@ permalink: /resume_en.html
 
 <details>
     <summary>
-        2026/02 - 2026/07: Exchange Study Abroad Program (Ghent University, Belgium)
+        <span class="resume-entry"><span class="resume-date">2026.02 - 2026.07</span><span class="resume-activity">Exchange Study Abroad Program (Ghent University, Belgium)</span></span>
     </summary>
     <div class="details-box">
         As a first step toward becoming a globally active professional, I applied for a long-term study abroad program.
@@ -57,7 +58,7 @@ permalink: /resume_en.html
 ## 👥 Affiliation
 <details>
     <summary>
-        2022/04 - present: <a href="https://trap.jp/" target="_blank" rel="noopener">Digital Creators Club traP</a>
+        <span class="resume-entry"><span class="resume-date">2022.04 - present</span><span class="resume-activity"><a href="https://trap.jp/" target="_blank" rel="noopener">Digital Creators Club traP</a></span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -71,7 +72,7 @@ permalink: /resume_en.html
 </details>
 <details>
     <summary>
-        2024/02 - present: Institute of Science Tokyo - Science and Engineering fields Peer Supporter
+        <span class="resume-entry"><span class="resume-date">2024.02 - present</span><span class="resume-activity">Institute of Science Tokyo - Science and Engineering fields Peer Supporter</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -87,7 +88,7 @@ permalink: /resume_en.html
 ## 🚀 Extracurricular Activities
 <details>
     <summary>
-        2023/05 - 2023/06: Google STEP Educational Course
+        <span class="resume-entry"><span class="resume-date">2023.05 - 2023.06</span><span class="resume-activity">Google STEP Educational Course</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -100,7 +101,7 @@ permalink: /resume_en.html
 </details>
 <details>
     <summary>
-        2024/05: Merpay QA Summer Training Camp 2024 Training Program
+        <span class="resume-entry"><span class="resume-date">2024.05</span><span class="resume-activity">Merpay QA Summer Training Camp 2024 Training Program</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -112,7 +113,7 @@ permalink: /resume_en.html
 </details>
 <details>
     <summary>
-        2024/08: Security Camp 2024 National Convention S09: Sanitizer Development Seminar
+        <span class="resume-entry"><span class="resume-date">2024.08</span><span class="resume-activity">Security Camp 2024 National Convention S09: Sanitizer Development Seminar</span></span>
     </summary>
     <div class="details-box">
         For more details, please see <a href="https://trap.jp/post/2312/" target="_blank" rel="noopener">this blog post about the event</a> (Japanese article).
@@ -120,7 +121,7 @@ permalink: /resume_en.html
 </details>
 <details>
     <summary>
-        2024/12: Security Mini Camp in Ishikawa 2024 Workshop
+        <span class="resume-entry"><span class="resume-date">2024.12</span><span class="resume-activity">Security Mini Camp in Ishikawa 2024 Workshop</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -132,7 +133,7 @@ permalink: /resume_en.html
 </details>
 <details>
     <summary>
-        2025/08: Security Camp 2025 National Convention Y Track Tutor
+        <span class="resume-entry"><span class="resume-date">2025.08</span><span class="resume-activity">Security Camp 2025 National Convention Y Track Tutor</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -144,7 +145,7 @@ permalink: /resume_en.html
 </details>
 <details>
     <summary>
-        2025/09: 42 Tokyo Piscine
+        <span class="resume-entry"><span class="resume-date">2025.09</span><span class="resume-activity">42 Tokyo Piscine</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -158,7 +159,7 @@ permalink: /resume_en.html
 </details>
 <details>
     <summary>
-        2025/10: Womens's Empowerment Forum 2025: Student Panelist
+        <span class="resume-entry"><span class="resume-date">2025.10</span><span class="resume-activity">Womens's Empowerment Forum 2025: Student Panelist</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -170,8 +171,8 @@ permalink: /resume_en.html
 </details>
 
 ## 📜 Certifications
-- TOEIC L&R: 865 points (August 2025)
-- TOEFL-ITP: 557 points (April 2024)
+- TOEIC L&R: 865 points (2025.08)
+- TOEFL-ITP: 557 points (2024.04)
 - Global Scientists and Engineers Course (GSEC): Completed Basic and Intermediate levels
 
 ## 🔗 Links

@@ -4,13 +4,14 @@ title: Resume
 lang: ja
 permalink: /resume.html
 ---
-
 # 📄 Resume
 
+"▶"から始まる項目は、クリックすると詳細が表示されます。
+
 ## 🎓 学歴
-- 2022/04 - 2023/03: 東京科学大学 生命理工学院
-- 2023/04 - 2025/09: 東京科学大学 工学院 情報通信系（転学院、学士課程半年早期卒業）
-- 2025/09 - present: 東京科学大学大学院 工学院 情報通信系 情報通信コース
+- <span class="resume-entry"><span class="resume-date">2022.04 - 2023.03</span><span class="resume-activity">東京科学大学 生命理工学院</span></span>
+- <span class="resume-entry"><span class="resume-date">2023.04 - 2025.09</span><span class="resume-activity">東京科学大学 工学院 情報通信系（転学院、学士課程半年早期卒業）</span></span>
+- <span class="resume-entry"><span class="resume-date">2025.09 - present</span><span class="resume-activity">東京科学大学大学院 工学院 情報通信系 情報通信コース</span></span>
 
 ## 🥼 研究活動
 <details>
@@ -35,7 +36,7 @@ permalink: /resume.html
 ## 🌎 国際経験
 <details>
     <summary>
-        2025/02 - 2025/03: 超短期留学（イギリス）
+        <span class="resume-entry"><span class="resume-date">2025.02 - 2025.03</span><span class="resume-activity">超短期留学（イギリス）</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -49,7 +50,7 @@ permalink: /resume.html
 
 <details>
     <summary>
-        2026/02 - 2026/07: 派遣交換留学（ゲント大学、ベルギー）
+        <span class="resume-entry"><span class="resume-date">2026.02 - 2026.07</span><span class="resume-activity">派遣交換留学（ゲント大学、ベルギー）</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -64,7 +65,7 @@ permalink: /resume.html
 ## 👥 所属団体
 <details>
     <summary>
-        2022/04 - present: <a href="https://trap.jp/" target="_blank" rel="noopener">東京科学大学デジタル創作同好会traP</a>
+        <span class="resume-entry"><span class="resume-date">2022.04 - present</span><span class="resume-activity"><a href="https://trap.jp/" target="_blank" rel="noopener">東京科学大学デジタル創作同好会traP</a></span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -79,7 +80,7 @@ permalink: /resume.html
 </details>
 <details>
     <summary>
-        2024/02 - present: <a href="https://www.titech.ac.jp/student-support/students/counseling/peer" target="_blank" rel="noopener">東京科学大学理工学系ピアサポーター</a>
+        <span class="resume-entry"><span class="resume-date">2024.02 - present</span><span class="resume-activity"><a href="https://www.titech.ac.jp/student-support/students/counseling/peer" target="_blank" rel="noopener">東京科学大学理工学系ピアサポーター</a></span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -95,7 +96,7 @@ permalink: /resume.html
 ## 🚀 課外活動
 <details>
     <summary>
-        2023/05 - 2023/06: <a href="https://landing.google.com/intl/ALL_jp/step/program/" target="_blank" rel="noopener">Google STEP教育コース</a>
+        <span class="resume-entry"><span class="resume-date">2023.05 - 2023.06</span><span class="resume-activity"><a href="https://landing.google.com/intl/ALL_jp/step/program/" target="_blank" rel="noopener">Google STEP教育コース</a></span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -108,7 +109,7 @@ permalink: /resume.html
 </details>
 <details>
     <summary>
-        2024/05: <a href="https://careers.mercari.com/mercan/articles/41190/" target="_blank" rel="noopener">メルペイ QA Summer Training Camp 2024 トレーニングプログラム</a>
+        <span class="resume-entry"><span class="resume-date">2024.05</span><span class="resume-activity"><a href="https://careers.mercari.com/mercan/articles/41190/" target="_blank" rel="noopener">メルペイ QA Summer Training Camp 2024 トレーニングプログラム</a></span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -120,7 +121,7 @@ permalink: /resume.html
 </details>
 <details>
     <summary>
-        2024/08: <a href="https://www.ipa.go.jp/archive/jinzai/security-camp/2024/camp/zenkoku/info.html" target="_blank" rel="noopener">セキュリティ・キャンプ2024 全国大会</a> S09サニタイザ自作ゼミ修了
+        <span class="resume-entry"><span class="resume-date">2024.08</span><span class="resume-activity"><a href="https://www.ipa.go.jp/archive/jinzai/security-camp/2024/camp/zenkoku/info.html" target="_blank" rel="noopener">セキュリティ・キャンプ2024 全国大会</a> S09サニタイザ自作ゼミ修了</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -131,7 +132,7 @@ permalink: /resume.html
 </details>
 <details>
     <summary>
-        2024/12: <a href="https://www.security-camp.or.jp/minicamp/ishikawa2024.html" target="_blank" rel="noopener">セキュリティ・ミニキャンプ in 石川 2024 ワークショップ</a>（オンライン）
+        <span class="resume-entry"><span class="resume-date">2024.12</span><span class="resume-activity"><a href="https://www.security-camp.or.jp/minicamp/ishikawa2024.html" target="_blank" rel="noopener">セキュリティ・ミニキャンプ in 石川 2024 ワークショップ</a>（オンライン）</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -143,7 +144,7 @@ permalink: /resume.html
 </details>
 <details>
     <summary>
-        2025/08: <a href="https://www.ipa.go.jp/archive/jinzai/security-camp/2025/camp/zenkoku/info.html" target="_blank" rel="noopener">セキュリティ・キャンプ2025 全国大会</a> Yトラックチューター
+        <span class="resume-entry"><span class="resume-date">2025.08</span><span class="resume-activity"><a href="https://www.ipa.go.jp/archive/jinzai/security-camp/2025/camp/zenkoku/info.html" target="_blank" rel="noopener">セキュリティ・キャンプ2025 全国大会</a> Yトラックチューター</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -155,7 +156,7 @@ permalink: /resume.html
 </details>
 <details>
     <summary>
-        2025/09: <a href="https://42tokyo.jp/requirements/#about-piscine" target="_blank" rel="noopener">42 Tokyo Piscine</a>
+        <span class="resume-entry"><span class="resume-date">2025.09</span><span class="resume-activity"><a href="https://42tokyo.jp/requirements/#about-piscine" target="_blank" rel="noopener">42 Tokyo Piscine</a></span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -169,7 +170,7 @@ permalink: /resume.html
 </details>
 <details>
     <summary>
-        2025/10: 女性活躍応援フォーラム2025「理工学系の世界って？その先にある未来へ」 学生パネリスト
+        <span class="resume-entry"><span class="resume-date">2025.10</span><span class="resume-activity">女性活躍応援フォーラム2025「理工学系の世界って？その先にある未来へ」 学生パネリスト</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -181,8 +182,8 @@ permalink: /resume.html
 </details>
 
 ## 📜 資格など
-- TOEIC L&R: 865 points (2025年8月)
-- TOEFL-ITP: 557 points (2024年4月)
+- TOEIC L&R: 865 points (2025.08)
+- TOEFL-ITP: 557 points (2024.04)
 - グローバル理工人育成コース: 初級・中級修了
 
 ## 🔗 リンク
