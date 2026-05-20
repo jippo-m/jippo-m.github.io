@@ -7,7 +7,7 @@ lang: ja
 # 🏠 HOME
 
 ご覧いただきありがとうございます！<br>
-詳細な経歴は[“Resume”](https://jippo-m.github.io/resume_en.html)ページ、成果物は[“Works”](https://jippo-m.github.io/works_en.html)ページに記載されています。
+詳細な経歴は[“Resume”](https://jippo-m.github.io/resume_en.html)ページ<!-- 、成果物は[“Works”](https://jippo-m.github.io/works_en.html)ページ-->に記載されています。
 
 ## 🌟 About Me
 
