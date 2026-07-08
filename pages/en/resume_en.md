@@ -108,7 +108,7 @@ Items starting with “▶” can be clicked to display more details.
         I didn’t know much about the role of a QA engineer, so I decided to participate out of curiosity.
         <!-- When, Where, What, and How did I do? -->
         <!-- What I learned -->
-        I was able to learn the basics of software quality assurance, which has broadened my future career options, but at this point, I don’t plan on becoming a QA engineer.
+        Learning the basics of software quality assurance has opened up more options for my future, but at this point, I don’t plan to become a QA engineer specializing solely in software.
     </div>
 </details>
 <details>
