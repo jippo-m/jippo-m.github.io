@@ -14,6 +14,7 @@ Items starting with “▶” can be clicked to display more details.
 - <span class="resume-entry"><span class="resume-date">2025.09 - present</span><span class="resume-activity">Institute of Science Tokyo Graduate School, School of Engineering, Department of Information and Communications Engineering</span></span>
 
 ## 🥼 Research
+### Conference Presentations
 <details>
     <summary>
         <u>Ayane Morishita</u>, Tomosuke Ichioka, Mingyu Yang, and Yuko Hara, "<a href="https://cir.nii.ac.jp/crid/1050026271561972352" target="_blank" rel="noopener"><b>HCLL-Lock: Hardware IP protection method with high resilience to functional attacks</b></a>", Computer Security Symposium (CSS), Okayama, Japan, October 2025 (<b>Student Paper Award</b>)
@@ -23,6 +24,7 @@ Items starting with “▶” can be clicked to display more details.
     </div>
 </details>
 
+### Peer-Reviewed Journal Articles
 <details>
     <summary>
         <u>Ayane Morishita</u>, Tomosuke Ichioka, Mingyu Yang, and Yuko Hara, "<b>Hardware IP Protection Method Balancing Resilience to Diverse Functional Attacks</b>", Computer Security Symposium (CSS), Okayama, Japan, October 2025 (<b>Conditionally Accepted</b>)
@@ -30,6 +32,28 @@ Items starting with “▶” can be clicked to display more details.
     <div class="details-box">
         Since the paper I presented at CSS2025 was accepted as a recommended paper, I submitted an expanded version—incorporating additional experiments and analysis—to the IPSJ Journal.
         We have received a conditional acceptance (with one reviewer recommending immediate acceptance), and we are currently working on the final revisions.
+    </div>
+</details>
+
+### Seminars & Other Presentations
+<details>
+    <summary>
+        Seminar Presentation at <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/secure-embedded-systems-hardware-architectures.html" target="_blank" rel="noopener">SESAM team</a>, <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html" target="_blank" rel="noopener">Hubert Curien Laboratory</a>, Jean Monnet University, Saint-Étienne, France<br>Title: Hardware IP Protection Method Balancing Resilience to Diverse Functional Attacks
+        Seminar Presenter, SESAM Team, Hubert Curien Laboratory, Jean Monnet University, Saint-Étienne, France, June 2026.
+    </summary>
+    <div class="details-box">
+        During my exchange program, I had the opportunity to visit the laboratory where my advisor is based and gave a seminar presentation on my research.
+        Since it was my first time giving a detailed presentation on my research in English and participating in a Q&A session, it was a very valuable experience.
+    </div>
+</details>
+
+### Theses
+<details>
+    <summary>
+        Bachelor's Thesis "機能攻撃耐性を持つハードウェアIP保護手法," Institute of Science Tokyo, July 2025
+    </summary>
+    <div class="details-box">
+        I managed to complete the entire process—reviewing prior research, proposing and conducting my own experiments, and writing the paper—in about three months. It was extremely challenging, but I gained the ability to quickly catch up in a new field, the ability to write a paper that anyone can understand, and the ability to break down complex concepts and explain them to others.
     </div>
 </details>
 
@@ -86,6 +110,7 @@ Items starting with “▶” can be clicked to display more details.
 </details>
 
 ## 🚀 Extracurricular Activities
+### Internships, Corporate Programs
 <details>
     <summary>
         <span class="resume-entry"><span class="resume-date">2023.05 - 2023.06</span><span class="resume-activity">Google STEP Educational Course</span></span>
@@ -111,6 +136,32 @@ Items starting with “▶” can be clicked to display more details.
         Learning the basics of software quality assurance has opened up more options for my future, but at this point, I don’t plan to become a QA engineer specializing solely in software.
     </div>
 </details>
+<details>
+    <summary>
+        <span class="resume-entry"><span class="resume-date">2026.8</span><span class="resume-activity">UPWARDS2026 Tokyo Electron Summer Camp for WOMEN</span></span>
+    </summary>
+    <div class="details-box">
+        <!-- Why did I participate? -->
+        半導体について集中的に学べる点や、留学後の英語力の維持に役立ちそうな点に魅力を感じ、応募しました。
+        <!-- When, Where What and How did I do? -->
+        内容は、熊本県にある「東京エレクトロン熊本クラブ」に滞在し、半導体について学びながら、国境を越えた学生たちのネットワークを広げることができる女子学生向けサマーキャンプです。<br>
+        <!-- What I learned -->
+        なお、当該プログラムは、半導体の未来に向けた人材育成と研究開発のための日米大学パートナーシップ、UPWARDS for the Futureの一環で実施されています。
+    </div>
+</details>
+<details>
+    <summary>
+        <span class="resume-entry"><span class="resume-date">2026.8 - 2026.09</span><span class="resume-activity">Sony Interactive Entertainment Inc. On-the-Job Internship S06.Quality Engineering</span></span>
+    </summary>
+    <div class="details-box">
+        <!-- Why did I participate? -->
+        I applied because I was drawn to the opportunity to utilize my English skills and to work on both hardware and software.<br>
+        <!-- When, Where What and How did I do? -->
+        <!-- What I learned -->
+    </div>
+</details>
+
+### Technical Training & Workshops
 <details>
     <summary>
         <span class="resume-entry"><span class="resume-date">2024.08</span><span class="resume-activity">Security Camp 2024 National Convention S09: Sanitizer Development Seminar</span></span>
@@ -157,6 +208,8 @@ Items starting with “▶” can be clicked to display more details.
         My commute was too long (over 5 hours round trip from home), so I couldn’t spend enough time at the school and wasn’t able to become a full-time student, but it was a very educational experience. If I have the opportunity, I would like to try again.
     </div>
 </details>
+
+### Public Speaking & Outreach Activities
 <details>
     <summary>
         <span class="resume-entry"><span class="resume-date">2025.10</span><span class="resume-activity">Womens's Empowerment Forum 2025: Student Panelist</span></span>
@@ -167,6 +220,18 @@ Items starting with “▶” can be clicked to display more details.
         I spoke to high school girls interested in Tokyo University of Science about my student life and my goals. <br>
         <!-- What I learned -->
         There is a <a href="https://www.isct.ac.jp/ja/news/onw6vkwy6k6f" target="_blank" rel="noopener">report article</a> (Japanese version only).
+    </div>
+</details>
+<details>
+    <summary>
+        <span class="resume-entry"><span class="resume-date">2026.7</span><span class="resume-activity">Institute of Science Tokyo (Science and Engineering Field) University Information Session for Regional High School Students 2026: Student Panelist</span></span>
+    </summary>
+    <div class="details-box">
+        <!-- Why did I participate? -->
+        <!-- When, Where What and How did I do? -->
+        I spoke to regional high school students interested in Tokyo University of Science about my student life and my goals. <br>
+        <!-- What I learned -->
+        There is a <a href="https://www.isct.ac.jp/ja/news/534mlk2c83yq" target="_blank" rel="noopener">report article</a> (Japanese version only).
     </div>
 </details>
 

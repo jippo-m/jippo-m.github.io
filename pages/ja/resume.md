@@ -14,6 +14,7 @@ permalink: /resume.html
 - <span class="resume-entry"><span class="resume-date">2025.09 - present</span><span class="resume-activity">東京科学大学大学院 工学院 情報通信系 情報通信コース</span></span>
 
 ## 🥼 研究活動
+### 学会発表
 <details>
     <summary>
         <u>森下 彩音</u>，一岡 知佑，楊 明宇，原 祐子，"<a href="https://cir.nii.ac.jp/crid/1050026271561972352" target="_blank" rel="noopener"><b>HCLL-Lock：機能攻撃への高い耐性を持つハードウェアIP保護手法</b></a>," <a href="https://www.iwsec.org/css/2025/" target="_blank" rel="noopener">コンピュータセキュリティシンポジウム2025(CSS2025)</a>，岡山，2025年10月（※<b>学生論文賞</b>）
@@ -23,6 +24,7 @@ permalink: /resume.html
     </div>
 </details>
 
+### 査読付き論文
 <details>
     <summary>
         <u>森下 彩音</u>，一岡 知佑，楊 明宇，原 祐子，"<b>多様な機能攻撃への耐性を両立するハードウェアIP保護手法</b>," 情報処理学会論文誌(IPSJ Journal)（※<b>条件付採録</b>）
@@ -30,6 +32,27 @@ permalink: /resume.html
     <div class="details-box">
         CSS2025で発表した論文が推薦論文として承認されたため、追加の実験や考察によって拡張した論文を情報処理学会論文誌（IPSJ Journal）に投稿しました。<br>
         条件付採録（1名からは一発採録の評価）をいただいており、現在最終の修正対応を進めています。
+    </div>
+</details>
+
+### その他発表
+<details>
+    <summary>
+        フランス サン＝テティエンヌ ジャン・モネ大学 <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html" target="_blank" rel="noopener">Hubert Curien研究所</a> <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/secure-embedded-systems-hardware-architectures.html" target="_blank" rel="noopener">SESAMチーム</a>にてセミナー発表<br>タイトル: Hardware IP Protection Method Balancing Resilience to Diverse Functional Attacks
+    </summary>
+    <div class="details-box">
+        交換留学の途中で、指導教員の先生が所属する研究室を訪問させていただき、自分の研究についてセミナーで発表を行いました。
+        自分の研究について英語で詳しく発表・質疑応答をするのは初めてだったので、とても良い経験になりました。
+    </div>
+</details>
+
+### 学位論文
+<details>
+    <summary>
+        学士課程卒業論文 "機能攻撃耐性を持つハードウェアIP保護手法," 東京科学大学, 2025年7月
+    </summary>
+    <div class="details-box">
+        先行研究の理解、自分の手法の提案・実験、論文の執筆を約3カ月でやり切りました。非常に大変でしたが、新しく触れる分野に素早くキャッチアップする力、誰が読んでも内容をつかめるような論文を書く力、複雑な事柄を噛み砕いて他者に説明する力などが身につきました。
     </div>
 </details>
 
@@ -94,6 +117,7 @@ permalink: /resume.html
 </details>
 
 ## 🚀 課外活動
+### インターンシップ・企業プログラム
 <details>
     <summary>
         <span class="resume-entry"><span class="resume-date">2023.05 - 2023.06</span><span class="resume-activity"><a href="https://landing.google.com/intl/ALL_jp/step/program/" target="_blank" rel="noopener">Google STEP教育コース</a></span></span>
@@ -119,6 +143,32 @@ permalink: /resume.html
         ソフトウェアの品質管理の基礎を学ぶことができ、将来の選択肢が広がりましたが、現時点ではソフトウェアのみのQAエンジニアになりたいとは考えていません。
     </div>
 </details>
+<details>
+    <summary>
+        <span class="resume-entry"><span class="resume-date">2026.8</span><span class="resume-activity">UPWARDS2026 Tokyo Electron Summer Camp for WOMEN</span></span>
+    </summary>
+    <div class="details-box">
+        <!-- Why did I participate? -->
+        半導体について集中的に学べる点や、留学後の英語力の維持に役立ちそうな点に魅力を感じ、応募しました。
+        <!-- When, Where What and How did I do? -->
+        内容は、熊本県にある「東京エレクトロン熊本クラブ」に滞在し、半導体について学びながら、国境を越えた学生たちのネットワークを広げることができる女子学生向けサマーキャンプです。<br>
+        <!-- What I learned -->
+        なお、当該プログラムは、半導体の未来に向けた人材育成と研究開発のための日米大学パートナーシップ、UPWARDS for the Futureの一環で実施されています。
+    </div>
+</details>
+<details>
+    <summary>
+        <span class="resume-entry"><span class="resume-date">2026.8 - 2026.09</span><span class="resume-activity">株式会社ソニー・インタラクティブエンタテインメント 職場密着インターン S06.Quality Engineering</span></span>
+    </summary>
+    <div class="details-box">
+        <!-- Why did I participate? -->
+        英語力を活かせる点、ハードウェアとソフトウェアの両方に関わることができる点に惹かれて応募しました。<br>
+        <!-- When, Where What and How did I do? -->
+        <!-- What I learned -->
+    </div>
+</details>
+
+### 技術プログラム・ワークショップ
 <details>
     <summary>
         <span class="resume-entry"><span class="resume-date">2024.08</span><span class="resume-activity"><a href="https://www.ipa.go.jp/archive/jinzai/security-camp/2024/camp/zenkoku/info.html" target="_blank" rel="noopener">セキュリティ・キャンプ2024 全国大会</a> S09サニタイザ自作ゼミ修了</span></span>
@@ -168,6 +218,8 @@ permalink: /resume.html
         移動時間が長すぎて（自宅から往復5時間以上）校舎の滞在時間が十分に確保できず、本科生になることはできませんでしたが、非常に学びのある経験となりました。機会があればもう一度チャレンジしてみたいと考えています。
     </div>
 </details>
+
+### 登壇・アウトリーチ活動
 <details>
     <summary>
         <span class="resume-entry"><span class="resume-date">2025.10</span><span class="resume-activity">女性活躍応援フォーラム2025「理工学系の世界って？その先にある未来へ」 学生パネリスト</span></span>
@@ -178,6 +230,18 @@ permalink: /resume.html
         東京科学大学に興味を持っている女子高校生に向けて、自分の学生生活や目標について話しました。<br>
         <!-- What I learned -->
         <a href="https://www.isct.ac.jp/ja/news/onw6vkwy6k6f" target="_blank" rel="noopener">レポート記事</a>があります。
+    </div>
+</details>
+<details>
+    <summary>
+        <span class="resume-entry"><span class="resume-date">2026.7</span><span class="resume-activity">東京科学大学理工学系地方高校生向け大学説明会 2026 学生パネリスト</span></span>
+    </summary>
+    <div class="details-box">
+        <!-- Why did I participate? -->
+        <!-- When, Where What and How did I do? -->
+        東京科学大学に興味を持っている地方在住の高校生に向けて、自分の学生生活や目標について話しました。<br>
+        <!-- What I learned -->
+        <a href="https://www.isct.ac.jp/ja/news/534mlk2c83yq" target="_blank" rel="noopener">レポート記事</a>があります。
     </div>
 </details>
 
