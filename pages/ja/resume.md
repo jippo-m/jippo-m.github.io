@@ -10,7 +10,7 @@ permalink: /resume.html
 
 ## 🎓 学歴
 - <span class="resume-entry"><span class="resume-date">2022.04 - 2023.03</span><span class="resume-activity">東京科学大学 生命理工学院</span></span>
-- <span class="resume-entry"><span class="resume-date">2023.04 - 2025.09</span><span class="resume-activity">東京科学大学 工学院 情報通信系（転学院、学士課程半年早期卒業）</span></span>
+- <span class="resume-entry"><span class="resume-date">2023.04 - 2025.09</span><span class="resume-activity">東京科学大学 工学院 情報通信系（**転学院**、**学士課程半年早期卒業**）</span></span>
 - <span class="resume-entry"><span class="resume-date">2025.09 - present</span><span class="resume-activity">東京科学大学大学院 工学院 情報通信系 情報通信コース</span></span>
 
 ## 🥼 研究活動
@@ -49,7 +49,7 @@ permalink: /resume.html
 ### 学位論文
 <details>
     <summary>
-        学士課程卒業論文 "機能攻撃耐性を持つハードウェアIP保護手法," 東京科学大学, 2025年7月
+        学士課程卒業論文 "機能攻撃耐性を持つハードウェアIP保護手法," 東京科学大学, 2025年7月（**学士課程半年早期卒業**）
     </summary>
     <div class="details-box">
         先行研究の理解、自分の手法の提案・実験、論文の執筆を約3カ月でやり切りました。非常に大変でしたが、新しく触れる分野に素早くキャッチアップする力、誰が読んでも内容をつかめるような論文を書く力、複雑な事柄を噛み砕いて他者に説明する力などが身につきました。
@@ -80,7 +80,7 @@ permalink: /resume.html
         グローバルに活躍する人材になるための第一歩として、海外に長期間滞在することができる派遣交換留学に応募しました。
         多様性を受け入れる土壌があること、英語が通じやすいこと、日本人学生が少ないことなどから、ベルギーのゲント大学を選びました。<br>
         <!-- When, Where What and How did I do? -->
-        Faculty of Engineering and Architectureで授業履修をしつつ、寮のフロアメイトやタンデム、日本好きの現地学生など、様々な人と交流しています。
+        Faculty of Engineering and Architectureで授業履修をしつつ、寮のフロアメイトやタンデム、日本好きの現地学生など、様々な人と交流しました。
         <!-- What I learned -->
     </div>
 </details>

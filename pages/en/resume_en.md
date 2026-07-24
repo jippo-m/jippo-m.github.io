@@ -10,7 +10,7 @@ Items starting with “▶” can be clicked to display more details.
 
 ## 🎓 Education
 - <span class="resume-entry"><span class="resume-date">2022.04 - 2023.03</span><span class="resume-activity">Institute of Science Tokyo, School of Life Science and Technology</span></span>
-- <span class="resume-entry"><span class="resume-date">2023.04 - 2025.09</span><span class="resume-activity">Institute of Science Tokyo, School of Engineering, Department of Information and Communications Engineering (Transfer, Early graduation from bachelor's program)</span></span>
+- <span class="resume-entry"><span class="resume-date">2023.04 - 2025.09</span><span class="resume-activity">Institute of Science Tokyo, School of Engineering, Department of Information and Communications Engineering (**Change of Major**, **Early graduation from bachelor's program**)</span></span>
 - <span class="resume-entry"><span class="resume-date">2025.09 - present</span><span class="resume-activity">Institute of Science Tokyo Graduate School, School of Engineering, Department of Information and Communications Engineering</span></span>
 
 ## 🥼 Research
@@ -50,7 +50,7 @@ Items starting with “▶” can be clicked to display more details.
 ### Theses
 <details>
     <summary>
-        Bachelor's Thesis "機能攻撃耐性を持つハードウェアIP保護手法," Institute of Science Tokyo, July 2025
+        Bachelor's Thesis "機能攻撃耐性を持つハードウェアIP保護手法," Institute of Science Tokyo, July 2025 (**Early graduation from bachelor's program**)
     </summary>
     <div class="details-box">
         I managed to complete the entire process—reviewing prior research, proposing and conducting my own experiments, and writing the paper—in about three months. It was extremely challenging, but I gained the ability to quickly catch up in a new field, the ability to write a paper that anyone can understand, and the ability to break down complex concepts and explain them to others.
@@ -75,7 +75,7 @@ Items starting with “▶” can be clicked to display more details.
     <div class="details-box">
         As a first step toward becoming a globally active professional, I applied for a long-term study abroad program.
         I chose Ghent University in Belgium because of its welcoming environment that embraces diversity, the fact that English is widely spoken there, and the relatively small number of Japanese students.<br>
-        While taking classes at the Faculty of Engineering and Architecture, I’m interacting with a wide variety of people, including my dorm roommates, language exchange partners, and local students who are interested in Japan.
+        While taking classes at the Faculty of Engineering and Architecture, I interacted with a wide variety of people, including my dorm roommates, language exchange partners, and local students who are interested in Japan.
     </div>
 </details>
 
