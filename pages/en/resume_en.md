@@ -138,7 +138,7 @@ Items starting with “▶” can be clicked to display more details.
 </details>
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2026.8</span><span class="resume-activity">UPWARDS2026 Tokyo Electron Summer Camp for WOMEN</span></span>
+        <span class="resume-entry"><span class="resume-date">2026.08</span><span class="resume-activity">UPWARDS2026 Tokyo Electron Summer Camp for WOMEN</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -151,7 +151,7 @@ Items starting with “▶” can be clicked to display more details.
 </details>
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2026.8 - 2026.09</span><span class="resume-activity">Sony Interactive Entertainment Inc. On-the-Job Internship S06.Quality Engineering</span></span>
+        <span class="resume-entry"><span class="resume-date">2026.08 - 2026.09</span><span class="resume-activity">Sony Interactive Entertainment Inc. On-the-Job Internship S06.Quality Engineering</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -225,7 +225,7 @@ Items starting with “▶” can be clicked to display more details.
 </details>
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2026.7</span><span class="resume-activity">Institute of Science Tokyo (Science and Engineering Field) University Information Session for Regional High School Students 2026: Student Panelist</span></span>
+        <span class="resume-entry"><span class="resume-date">2026.07</span><span class="resume-activity">Institute of Science Tokyo (Science and Engineering Field) University Information Session for Regional High School Students 2026: Student Panelist</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->

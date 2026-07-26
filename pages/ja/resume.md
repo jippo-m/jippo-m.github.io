@@ -145,7 +145,7 @@ permalink: /resume.html
 </details>
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2026.8</span><span class="resume-activity">UPWARDS2026 Tokyo Electron Summer Camp for WOMEN</span></span>
+        <span class="resume-entry"><span class="resume-date">2026.08</span><span class="resume-activity">UPWARDS2026 Tokyo Electron Summer Camp for WOMEN</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -158,7 +158,7 @@ permalink: /resume.html
 </details>
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2026.8 - 2026.09</span><span class="resume-activity">株式会社ソニー・インタラクティブエンタテインメント 職場密着インターン S06.Quality Engineering</span></span>
+        <span class="resume-entry"><span class="resume-date">2026.08 - 2026.09</span><span class="resume-activity">株式会社ソニー・インタラクティブエンタテインメント 職場密着インターン S06.Quality Engineering</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -235,7 +235,7 @@ permalink: /resume.html
 </details>
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2026.7</span><span class="resume-activity">東京科学大学理工学系地方高校生向け大学説明会 2026 学生パネリスト</span></span>
+        <span class="resume-entry"><span class="resume-date">2026.07</span><span class="resume-activity">東京科学大学理工学系地方高校生向け大学説明会 2026 学生パネリスト</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
