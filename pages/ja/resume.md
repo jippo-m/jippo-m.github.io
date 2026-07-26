@@ -38,7 +38,8 @@ permalink: /resume.html
 ### その他発表
 <details>
     <summary>
-        フランス サン＝テティエンヌ ジャン・モネ大学 <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html" target="_blank" rel="noopener">Hubert Curien研究所</a> <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/secure-embedded-systems-hardware-architectures.html" target="_blank" rel="noopener">SESAMチーム</a>にてセミナー発表<br>タイトル: Hardware IP Protection Method Balancing Resilience to Diverse Functional Attacks
+        フランス サン＝テティエンヌ ジャン・モネ大学 <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html" target="_blank" rel="noopener">Hubert Curien研究所</a> <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/secure-embedded-systems-hardware-architectures.html" target="_blank" rel="noopener">SESAMチーム</a>にてセミナー発表
+        <br>タイトル: Hardware IP Protection Method Balancing Resilience to Diverse Functional Attacks
     </summary>
     <div class="details-box">
         交換留学の途中で、指導教員の先生が所属する研究室を訪問させていただき、自分の研究についてセミナーで発表を行いました。
@@ -49,7 +50,7 @@ permalink: /resume.html
 ### 学位論文
 <details>
     <summary>
-        学士課程卒業論文 "機能攻撃耐性を持つハードウェアIP保護手法," 東京科学大学, 2025年7月（**学士課程半年早期卒業**）
+        学士課程卒業論文 "機能攻撃耐性を持つハードウェアIP保護手法," 東京科学大学, 2025年7月（<b>学士課程半年早期卒業</b>）
     </summary>
     <div class="details-box">
         先行研究の理解、自分の手法の提案・実験、論文の執筆を約3カ月でやり切りました。非常に大変でしたが、新しく触れる分野に素早くキャッチアップする力、誰が読んでも内容をつかめるような論文を書く力、複雑な事柄を噛み砕いて他者に説明する力などが身につきました。
@@ -59,13 +60,13 @@ permalink: /resume.html
 ## 🌎 国際経験
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2025.02 - 2025.03</span><span class="resume-activity">超短期留学（イギリス）</span></span>
+        <span class="resume-entry"><span class="resume-date">2025.02 - 2025.03</span><span class="resume-activity">超短期留学（イギリス🇬🇧）</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
         <!-- When, Where What and How did I do? -->
         <!-- What I learned -->
-        学士課程4年生に上がる直前の春休みに参加しました。
+        学士課程4年生に上がる直前の春休みに参加し、約10日間で様々な大学や企業を訪問しました。
         <a href="https://www.ghrd.titech.ac.jp/world/uk-sreport/" target="_blank" rel="noopener">ショートレポート</a>と<a href="https://www.ghrd.titech.ac.jp/world/2025uk/" target="_blank" rel="noopener">報告書</a>があります。<br>
         これをきっかけに海外への関心が高まり、長期留学を決意しました。
     </div>
@@ -73,7 +74,7 @@ permalink: /resume.html
 
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2026.02 - 2026.07</span><span class="resume-activity">派遣交換留学（ゲント大学、ベルギー）</span></span>
+        <span class="resume-entry"><span class="resume-date">2026.02 - 2026.07</span><span class="resume-activity">派遣交換留学（ゲント大学、ベルギー🇧🇪）</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
@@ -126,9 +127,8 @@ permalink: /resume.html
         <!-- Why did I participate? -->
         デジタル創作同好会traPの先輩からおすすめされて参加しました。<br>
         <!-- When, Where What and How did I do? --> <!-- What I learned -->
-        毎週3時間の講義+宿題により、コンピュータサイエンスの基礎を学ぶことができ、他学生との交流もできました。
-        系所属をしたばかりの学士2年生の5-6月に参加したので、専門知識がほぼ無い状態で大変でしたが、とても学びの多いプログラムでした。
-        自作OSという概念を知ることができたのも、このプログラムのおかげです。
+        毎週3時間の講義+宿題により、コンピュータサイエンスの基礎（主にアルゴリズムとデータ構造、コンピュータアーキテクチャ等）を学ぶことができ、他大学の学生との交流もできました。系所属をしたばかりの学士2年生の5-6月に参加したので、専門知識がほぼ無い状態で大変でしたが、多くのことを吸収できたと思います。<br>
+        ここで「自作OS」なるものの存在を知ったことが、低レイヤへの興味の始まりと言えると思います。マイノリティになりやすい女性がコンピュータについて学ぶことを力強く肯定されたことが強く印象に残っており、メンタル面での指針にもなっています。私にとって原点とも言える、大きな意味のあるプログラムでした。
     </div>
 </details>
 <details>
@@ -137,7 +137,7 @@ permalink: /resume.html
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
-        QAエンジニアという職種を知らなかったので、関心が湧いて参加しました。
+        QAエンジニアという職種を知らなかったので、関心が湧いて参加しました。<br>
         <!-- When, Where What and How did I do? -->
         <!-- What I learned -->
         ソフトウェアの品質管理の基礎を学ぶことができ、将来の選択肢が広がりましたが、現時点ではソフトウェアのみのQAエンジニアになりたいとは考えていません。
@@ -149,9 +149,9 @@ permalink: /resume.html
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
-        半導体について集中的に学べる点や、留学後の英語力の維持に役立ちそうな点に魅力を感じ、応募しました。
+        半導体について集中的に学べる点や、留学後の英語力の維持に役立ちそうな点に魅力を感じ、応募しました。<br>
         <!-- When, Where What and How did I do? -->
-        内容は、熊本県にある「東京エレクトロン熊本クラブ」に滞在し、半導体について学びながら、国境を越えた学生たちのネットワークを広げることができる女子学生向けサマーキャンプです。<br>
+        熊本県にある「東京エレクトロン熊本クラブ」に数日間滞在し、半導体について学びながら、国境を越えた学生たちのネットワークを広げることができる女子学生向けサマーキャンプです。<br>
         <!-- What I learned -->
         なお、当該プログラムは、半導体の未来に向けた人材育成と研究開発のための日米大学パートナーシップ、UPWARDS for the Futureの一環で実施されています。
     </div>
@@ -174,6 +174,7 @@ permalink: /resume.html
         <span class="resume-entry"><span class="resume-date">2024.08</span><span class="resume-activity"><a href="https://www.ipa.go.jp/archive/jinzai/security-camp/2024/camp/zenkoku/info.html" target="_blank" rel="noopener">セキュリティ・キャンプ2024 全国大会</a> S09サニタイザ自作ゼミ修了</span></span>
     </summary>
     <div class="details-box">
+        講師: <a href="https://github.com/m1kit" target="_blank" rel="noopener">@m1kit</a>, 同ゼミの受講生: <a href="https://github.com/momeemt" target="_blank" rel="noopener">@momeemt</a><br>
         <!-- Why did I participate? -->
         <!-- When, Where What and How did I do? -->
         <!-- What I learned -->

@@ -10,7 +10,7 @@ Items starting with “▶” can be clicked to display more details.
 
 ## 🎓 Education
 - <span class="resume-entry"><span class="resume-date">2022.04 - 2023.03</span><span class="resume-activity">Institute of Science Tokyo, School of Life Science and Technology</span></span>
-- <span class="resume-entry"><span class="resume-date">2023.04 - 2025.09</span><span class="resume-activity">Institute of Science Tokyo, School of Engineering, Department of Information and Communications Engineering (**Change of Major**, **Early graduation from bachelor's program**)</span></span>
+- <span class="resume-entry"><span class="resume-date">2023.04 - 2025.09</span><span class="resume-activity">Institute of Science Tokyo, School of Engineering, Department of Information and Communications Engineering (**Change of Major**, **Half-year Early Graduation from Bachelor's Program**)</span></span>
 - <span class="resume-entry"><span class="resume-date">2025.09 - present</span><span class="resume-activity">Institute of Science Tokyo Graduate School, School of Engineering, Department of Information and Communications Engineering</span></span>
 
 ## 🥼 Research
@@ -27,7 +27,7 @@ Items starting with “▶” can be clicked to display more details.
 ### Peer-Reviewed Journal Articles
 <details>
     <summary>
-        <u>Ayane Morishita</u>, Tomosuke Ichioka, Mingyu Yang, and Yuko Hara, "<b>Hardware IP Protection Method Balancing Resilience to Diverse Functional Attacks</b>", Computer Security Symposium (CSS), Okayama, Japan, October 2025 (<b>Conditionally Accepted</b>)
+        <u>Ayane Morishita</u>, Tomosuke Ichioka, Mingyu Yang, and Yuko Hara, "<b>Hardware IP Protection Method Balancing Resilience to Diverse Functional Attacks</b>," IPSJ Journal (<b>Conditionally Accepted</b>)
     </summary>
     <div class="details-box">
         Since the paper I presented at CSS2025 was accepted as a recommended paper, I submitted an expanded version—incorporating additional experiments and analysis—to the IPSJ Journal.
@@ -38,8 +38,8 @@ Items starting with “▶” can be clicked to display more details.
 ### Seminars & Other Presentations
 <details>
     <summary>
-        Seminar Presentation at <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/secure-embedded-systems-hardware-architectures.html" target="_blank" rel="noopener">SESAM team</a>, <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html" target="_blank" rel="noopener">Hubert Curien Laboratory</a>, Jean Monnet University, Saint-Étienne, France<br>Title: Hardware IP Protection Method Balancing Resilience to Diverse Functional Attacks
-        Seminar Presenter, SESAM Team, Hubert Curien Laboratory, Jean Monnet University, Saint-Étienne, France, June 2026.
+        Seminar Presentation at <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/secure-embedded-systems-hardware-architectures.html" target="_blank" rel="noopener">SESAM team</a>, <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html" target="_blank" rel="noopener">Hubert Curien Laboratory</a>, Jean Monnet University, Saint-Étienne, France, June 2026.<br>
+        Title: Hardware IP Protection Method Balancing Resilience to Diverse Functional Attacks
     </summary>
     <div class="details-box">
         During my exchange program, I had the opportunity to visit the laboratory where my advisor is based and gave a seminar presentation on my research.
@@ -50,7 +50,7 @@ Items starting with “▶” can be clicked to display more details.
 ### Theses
 <details>
     <summary>
-        Bachelor's Thesis "機能攻撃耐性を持つハードウェアIP保護手法," Institute of Science Tokyo, July 2025 (**Early graduation from bachelor's program**)
+        Bachelor's Thesis "機能攻撃耐性を持つハードウェアIP保護手法," Institute of Science Tokyo, July 2025 (<b>Half-year Early Graduation from Bachelor's Program</b>)
     </summary>
     <div class="details-box">
         I managed to complete the entire process—reviewing prior research, proposing and conducting my own experiments, and writing the paper—in about three months. It was extremely challenging, but I gained the ability to quickly catch up in a new field, the ability to write a paper that anyone can understand, and the ability to break down complex concepts and explain them to others.
@@ -60,17 +60,17 @@ Items starting with “▶” can be clicked to display more details.
 ## 🌎 International Experiences
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2025.02 - 2025.03</span><span class="resume-activity">Very Short-term Study Abroad Program (UK)</span></span>
+        <span class="resume-entry"><span class="resume-date">2025.02 - 2025.03</span><span class="resume-activity">Very Short-term Study Abroad Program (UK🇬🇧)</span></span>
     </summary>
     <div class="details-box">
-        I participated in the program during spring break, just before starting my senior year of undergraduate studies. We wrote <a href="https://www.ghrd.titech.ac.jp/world/uk-sreport/" target="_blank" rel="noopener">a short report</a> and <a href="https://www.ghrd.titech.ac.jp/world/2025uk/" target="_blank" rel="noopener">a final report</a>.<br>
+        I participated in this program during spring break, just before starting my senior year of college, and visited various universities and companies over the course of about 10 days. We wrote <a href="https://www.ghrd.titech.ac.jp/world/uk-sreport/" target="_blank" rel="noopener">a short report</a> and <a href="https://www.ghrd.titech.ac.jp/world/2025uk/" target="_blank" rel="noopener">a final report</a>.<br>
         This experience sparked my interest in studying abroad, and I decided to pursue a long-term study abroad program.
     </div>
 </details>
 
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2026.02 - 2026.07</span><span class="resume-activity">Exchange Study Abroad Program (Ghent University, Belgium)</span></span>
+        <span class="resume-entry"><span class="resume-date">2026.02 - 2026.07</span><span class="resume-activity">Exchange Study Abroad Program (Ghent University, Belgium🇧🇪)</span></span>
     </summary>
     <div class="details-box">
         As a first step toward becoming a globally active professional, I applied for a long-term study abroad program.
@@ -119,9 +119,9 @@ Items starting with “▶” can be clicked to display more details.
         <!-- Why did I participate? -->
         I joined this program because it was recommended by a senior member of the Digital Creators Club traP.<br>
         <!-- When, Where What and How did I do? --> <!-- What I learned -->
-        Through three hours of lectures each week plus homework assignments, I was able to learn the fundamentals of computer science and interact with other students.
-        I participated in May and June of my second year of undergraduate studies, right after joining the department, so it was challenging since I had almost no specialized knowledge, but it was a program where I learned a great deal.
-        It was also thanks to this program that I was introduced to the concept of building my own operating system.
+        Through three hours of lectures each week plus homework assignments, I was able to learn the fundamentals of computer science (mainly algorithms and data structures, computer architecture, etc.) and interact with students from other universities.
+        I participated in May and June of my second year of undergraduate studies, right after joining the department, so it was challenging since I had almost no specialized knowledge, but it was a program where I learned a great deal.<br>
+        Discovering the concept of "building an OS from scratch" during this program was the true starting point of my interest in low-level programming. Furthermore, the powerful affirmation of women—who are typically a minority in tech—studying computer science left a profound impression on me and continues to serve as a guiding mindset. It was a deeply meaningful program that I consider to be my origin in this field.
     </div>
 </details>
 <details>
@@ -142,11 +142,11 @@ Items starting with “▶” can be clicked to display more details.
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
-        半導体について集中的に学べる点や、留学後の英語力の維持に役立ちそうな点に魅力を感じ、応募しました。
+        I applied because I was drawn to the opportunity to study semiconductors in depth and the fact that the program seemed like it would help me maintain my English skills after studying abroad.<br>
         <!-- When, Where What and How did I do? -->
-        内容は、熊本県にある「東京エレクトロン熊本クラブ」に滞在し、半導体について学びながら、国境を越えた学生たちのネットワークを広げることができる女子学生向けサマーキャンプです。<br>
+        This is a summer camp for female students held at the “Tokyo Electron Kumamoto Club” in Kumamoto Prefecture, where participants can learn about semiconductors while expanding their network of students from around the world.<br>
         <!-- What I learned -->
-        なお、当該プログラムは、半導体の未来に向けた人材育成と研究開発のための日米大学パートナーシップ、UPWARDS for the Futureの一環で実施されています。
+        This program is being implemented as part of “UPWARDS for the Future,” a Japan-U.S. university partnership aimed at fostering talent and promoting research and development for the future of semiconductors.
     </div>
 </details>
 <details>
@@ -164,9 +164,10 @@ Items starting with “▶” can be clicked to display more details.
 ### Technical Training & Workshops
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2024.08</span><span class="resume-activity">Security Camp 2024 National Convention S09: Sanitizer Development Seminar</span></span>
+        <span class="resume-entry"><span class="resume-date">2024.08</span><span class="resume-activity">Security Camp 2024 National Convention S09 Build Your Own Sanitizer seminar</span></span>
     </summary>
     <div class="details-box">
+        lecturer: <a href="https://github.com/m1kit" target="_blank" rel="noopener">@m1kit</a>, seminar peer: <a href="https://github.com/momeemt" target="_blank" rel="noopener">@momeemt</a><br>
         For more details, please see <a href="https://trap.jp/post/2312/" target="_blank" rel="noopener">this blog post about the event</a> (Japanese article).
     </div>
 </details>
@@ -188,7 +189,7 @@ Items starting with “▶” can be clicked to display more details.
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
-        Since participants are not eligible to attend unless at least five years have passed since they last participated in and completed an in-person Security Camp, I participated as a tutor this time. <br>
+        Since participants are not eligible to attend unless at least five years have passed since they last participated in and completed an in-person Security Camp National Convention, I participated as a tutor this time. <br>
         <!-- When, Where, What, and How did I do? -->
         <!-- What I learned -->
         Just like last year, the instructors, students, and tutors all possessed extremely high technical skills, which was very inspiring.
@@ -200,7 +201,7 @@ Items starting with “▶” can be clicked to display more details.
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
-        Several people I know recommended it to me, and I applied because I thought it would be a great opportunity to intensively improve my low-level programming skills during the summer break. <br>
+        I applied because several people I know recommended it to me, and I thought it would be a great opportunity to intensively improve my low-level programming skills during the summer break. <br>
         <!-- When, Where, What, and How did I do it? -->
         Basically, I implemented functions from the C standard library using the C language.
         It was an interesting system where you couldn’t move on to the next assignment until you explained your code to others and convinced them of its correctness, which I believe was designed to ensure a deep understanding of the material. There were also team assignments. <br>
