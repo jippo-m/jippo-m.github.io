@@ -145,19 +145,6 @@ permalink: /resume.html
 </details>
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2026.08</span><span class="resume-activity">UPWARDS2026 Tokyo Electron Summer Camp for WOMEN</span></span>
-    </summary>
-    <div class="details-box">
-        <!-- Why did I participate? -->
-        半導体について集中的に学べる点や、留学後の英語力の維持に役立ちそうな点に魅力を感じ、応募しました。<br>
-        <!-- When, Where What and How did I do? -->
-        熊本県にある「東京エレクトロン熊本クラブ」に数日間滞在し、半導体について学びながら、国境を越えた学生たちのネットワークを広げることができる女子学生向けサマーキャンプです。<br>
-        <!-- What I learned -->
-        なお、当該プログラムは、半導体の未来に向けた人材育成と研究開発のための日米大学パートナーシップ、UPWARDS for the Futureの一環で実施されています。
-    </div>
-</details>
-<details>
-    <summary>
         <span class="resume-entry"><span class="resume-date">2026.08 - 2026.09</span><span class="resume-activity">株式会社ソニー・インタラクティブエンタテインメント 職場密着インターン S06.Quality Engineering</span></span>
     </summary>
     <div class="details-box">

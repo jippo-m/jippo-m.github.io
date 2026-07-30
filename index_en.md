@@ -11,7 +11,7 @@ My detailed work history can be found on the [“Resume”](https://jippo-m.gith
 
 ## 🌟 About Me
 
-I am currently enrolled in the master’s program at Institute of Science Tokyo (School of Engineering, Department of Information and Communications), where I am conducting research on Hardware Security. I am also currently on an exchange program at Ghent University in Belgium from February to July 2026.
+I am currently enrolled in the master’s program at Institute of Science Tokyo (School of Engineering, Department of Information and Communications), where I am conducting research on Hardware Security. I also participated in an exchange program at Ghent University in Belgium from February to July 2026.
 
 My strengths are **“intellectual curiosity” and “the ability to take immediate action.”** I dive right into fields that interest me and have actively pursued unconventional activities, such as participating in computer science-related events (including the Google STEP Education Course and the National Security Camp) and engaging in international exchange through study abroad programs.
 While I possess a strong drive for personal exploration, my sense of responsibility sometimes leads me to try to solve problems on my own, which can cause me to take on too much. Therefore, I am currently practicing teamwork by consciously seeking input from others to achieve greater results.

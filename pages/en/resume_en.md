@@ -138,19 +138,6 @@ Items starting with “▶” can be clicked to display more details.
 </details>
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2026.08</span><span class="resume-activity">UPWARDS2026 Tokyo Electron Summer Camp for WOMEN</span></span>
-    </summary>
-    <div class="details-box">
-        <!-- Why did I participate? -->
-        I applied because I was drawn to the opportunity to study semiconductors in depth and the fact that the program seemed like it would help me maintain my English skills after studying abroad.<br>
-        <!-- When, Where What and How did I do? -->
-        This is a summer camp for female students held at the “Tokyo Electron Kumamoto Club” in Kumamoto Prefecture, where participants can learn about semiconductors while expanding their network of students from around the world.<br>
-        <!-- What I learned -->
-        This program is being implemented as part of “UPWARDS for the Future,” a Japan-U.S. university partnership aimed at fostering talent and promoting research and development for the future of semiconductors.
-    </div>
-</details>
-<details>
-    <summary>
         <span class="resume-entry"><span class="resume-date">2026.08 - 2026.09</span><span class="resume-activity">Sony Interactive Entertainment Inc. On-the-Job Internship S06.Quality Engineering</span></span>
     </summary>
     <div class="details-box">
