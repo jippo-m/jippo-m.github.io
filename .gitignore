@@ -1,3 +1,12 @@
+# Jekyll build output
 _site/
-Gemfile
-Gemfile.lock
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Local dependency/bundle directories
+.bundle/
+vendor/
+
+# Optional: local editor/OS noise
+.DS_Store
