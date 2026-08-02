@@ -15,12 +15,26 @@
         <button id="theme-toggle" aria-label="Toggle theme">🌙</button>
       </div>
       <div class="language-switcher">
-      {% if page.lang == 'ja' %}
-        <a href="/" class="current">Ja</a>
-        <a href="/index_en.html">En</a>
+      {% assign current_url = page.url | default: '/' %}
+      {% if current_url == '/' or current_url == '/index.html' %}
+        {% assign ja_url = '/' %}
+        {% assign en_url = '/index_en.html' %}
+      {% elsif current_url == '/resume.html' or current_url == '/resume_en.html' %}
+        {% assign ja_url = '/resume.html' %}
+        {% assign en_url = '/resume_en.html' %}
+      {% elsif current_url == '/works.html' or current_url == '/works_en.html' %}
+        {% assign ja_url = '/works.html' %}
+        {% assign en_url = '/works_en.html' %}
       {% else %}
-        <a href="/">Ja</a>
-        <a href="/index_en.html" class="current">En</a>
+        {% assign ja_url = '/' %}
+        {% assign en_url = '/index_en.html' %}
+      {% endif %}
+      {% if page.lang == 'ja' %}
+        <a href="{{ ja_url | relative_url }}" class="current">Ja</a>
+        <a href="{{ en_url | relative_url }}">En</a>
+      {% else %}
+        <a href="{{ ja_url | relative_url }}">Ja</a>
+        <a href="{{ en_url | relative_url }}" class="current">En</a>
       {% endif %}
       </div>
       <!-- hamburger next to language switcher -->
