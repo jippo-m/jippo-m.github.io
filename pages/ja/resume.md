@@ -149,7 +149,7 @@ permalink: /resume.html
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
-        英語力を活かせる点、ハードウェアとソフトウェアの両方に関わることができる点に惹かれて応募しました。<br>
+        Labbaseにてスカウトをいただき、英語力を活かせる点、ハードウェアとソフトウェアの両方に関わることができる点に惹かれて応募しました。<br>
         <!-- When, Where What and How did I do? -->
         <!-- What I learned -->
     </div>

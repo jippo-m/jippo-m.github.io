@@ -142,7 +142,7 @@ Items starting with “▶” can be clicked to display more details.
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
-        I applied because I was drawn to the opportunity to utilize my English skills and to work on both hardware and software.<br>
+        I was approached by Labbase through their scouting program, and I applied because I was attracted by the opportunity to utilize my English skills and to work on both hardware and software.<br>
         <!-- When, Where What and How did I do? -->
         <!-- What I learned -->
     </div>
