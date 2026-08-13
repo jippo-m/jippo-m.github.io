@@ -27,11 +27,11 @@ Items starting with “▶” can be clicked to display more details.
 ### Peer-Reviewed Journal Articles
 <details>
     <summary>
-        <u>Ayane Morishita</u>, Tomosuke Ichioka, Mingyu Yang, and Yuko Hara, "<b>Hardware IP Protection Method Balancing Resilience to Diverse Functional Attacks</b>," IPSJ Journal (<b>Conditionally Accepted</b>)
+        <u>Ayane Morishita</u>, Tomosuke Ichioka, Mingyu Yang, and Yuko Hara, "<b>Hardware IP Protection Method Balancing Resilience to Diverse Functional Attacks</b>," IPSJ Journal, Vol. 67, No. 11, to appear, 2026.
     </summary>
     <div class="details-box">
-        Since the paper I presented at CSS2025 was accepted as a recommended paper, I submitted an expanded version—incorporating additional experiments and analysis—to the IPSJ Journal.
-        We have received a conditional acceptance (with one reviewer recommending immediate acceptance), and we are currently working on the final revisions.
+        Since the paper I presented at CSS2025 was selected as a recommended paper, I submitted an expanded version—incorporating additional experiments and analysis—to the IPSJ Journal.<br>
+        The paper has been officially accepted for publication (scheduled to appear in Vol. 67, No. 11). Notably, it received a rare recommendation for immediate acceptance from one reviewer during the first round of review.
     </div>
 </details>
 
