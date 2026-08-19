@@ -219,7 +219,7 @@ Items starting with “▶” can be clicked to display more details.
         <!-- When, Where What and How did I do? -->
         I spoke to regional high school students interested in Tokyo University of Science about my student life and my goals. <br>
         <!-- What I learned -->
-        There is a <a href="https://www.isct.ac.jp/ja/news/534mlk2c83yq" target="_blank" rel="noopener">report article</a> (Japanese version only).
+        There is a <a href="https://admissions.isct.ac.jp/ja/news/2ciyilcruhuq" target="_blank" rel="noopener">report article</a> (Japanese version only).
     </div>
 </details>
 

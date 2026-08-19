@@ -229,7 +229,7 @@ permalink: /resume.html
         <!-- When, Where What and How did I do? -->
         東京科学大学に興味を持っている地方在住の高校生に向けて、自分の学生生活や目標について話しました。<br>
         <!-- What I learned -->
-        <a href="https://www.isct.ac.jp/ja/news/534mlk2c83yq" target="_blank" rel="noopener">レポート記事</a>があります。
+        <a href="https://admissions.isct.ac.jp/ja/news/2ciyilcruhuq" target="_blank" rel="noopener">レポート記事</a>があります。
     </div>
 </details>
 
