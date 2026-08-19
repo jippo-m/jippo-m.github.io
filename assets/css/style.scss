@@ -82,10 +82,12 @@ body {
 .leftbar {
   width: var(--sidebar-width);
   flex-shrink: 0;
-  position: fixed; /* fixed to viewport so main content width remains unchanged */
+  position: fixed;
   top: 160px; /* stays below header */
   left: max(12px, calc(50% - var(--content-half) - var(--sidebar-width) - 30px));
   background: transparent;
+  max-height: calc(100vh - 180px);
+  overflow-y: auto;
 }
 .leftbar .toc-header {
   font-weight: 600;
@@ -103,11 +105,43 @@ body {
 }
 .leftbar nav a:hover { background: rgba(0,0,0,0.03); }
 .leftbar nav a.toc-active { font-weight: 600; }
-.main-content { flex: 1 1 auto; }
+.main-content {
+  flex: 1 1 auto;
+  min-width: 0;
+  height: calc(100vh - 180px);
+  overflow-y: auto;
+}
+
+body.theme-dark .leftbar,
+body.theme-dark .main-content {
+  scrollbar-color: #707070 #333333;
+  scrollbar-width: thin;
+}
+body.theme-dark .leftbar::-webkit-scrollbar,
+body.theme-dark .main-content::-webkit-scrollbar {
+  width: 10px;
+}
+body.theme-dark .leftbar::-webkit-scrollbar-track,
+body.theme-dark .main-content::-webkit-scrollbar-track {
+  background: #333333;
+}
+body.theme-dark .leftbar::-webkit-scrollbar-thumb,
+body.theme-dark .main-content::-webkit-scrollbar-thumb {
+  background: #707070;
+  border-radius: 5px;
+}
+body.theme-dark .leftbar::-webkit-scrollbar-thumb:hover,
+body.theme-dark .main-content::-webkit-scrollbar-thumb:hover {
+  background: #858585;
+}
 
 @media (max-width: 900px) {
   .content-area { display: block; }
   .leftbar { display: none; }
+  .main-content {
+    height: auto;
+    overflow-y: visible;
+  }
 }
 
 /* right sidebar for page navigation */
