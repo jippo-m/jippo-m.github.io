@@ -6,180 +6,180 @@ permalink: /resume_en.html
 ---
 # 📄 Resume
 
-Items starting with “▶” can be clicked to display more details.
+Click any item marked “▶” to see more details.
 
 ## 🎓 Education
 - <span class="resume-entry"><span class="resume-date">2022.04 - 2023.03</span><span class="resume-activity">Institute of Science Tokyo, School of Life Science and Technology</span></span>
-- <span class="resume-entry"><span class="resume-date">2023.04 - 2025.09</span><span class="resume-activity">Institute of Science Tokyo, School of Engineering, Department of Information and Communications Engineering (**Change of Major**, **Half-year Early Graduation from Bachelor's Program**)</span></span>
-- <span class="resume-entry"><span class="resume-date">2025.09 - present</span><span class="resume-activity">Institute of Science Tokyo Graduate School, School of Engineering, Department of Information and Communications Engineering</span></span>
+- <span class="resume-entry"><span class="resume-date">2023.04 - 2025.09</span><span class="resume-activity">Institute of Science Tokyo, School of Engineering, Department of Information and Communications Engineering (**Transferred from the School of Life Science and Technology**, **completed my bachelor’s degree six months early**)</span></span>
+- <span class="resume-entry"><span class="resume-date">2025.09 - present</span><span class="resume-activity">Master’s Program in Institute of Science Tokyo Graduate School, School of Engineering, Department of Information and Communications Engineering</span></span>
 
 ## 🥼 Research
-### Conference Presentations
+### 🗣️ Conference Presentations
 <details>
     <summary>
         <u>Ayane Morishita</u>, Tomosuke Ichioka, Mingyu Yang, and Yuko Hara, "<a href="https://cir.nii.ac.jp/crid/1050026271561972352" target="_blank" rel="noopener"><b>HCLL-Lock: Hardware IP protection method with high resilience to functional attacks</b></a>", Computer Security Symposium (CSS), Okayama, Japan, October 2025 (<b>Student Paper Award</b>)
     </summary>
     <div class="details-box">
-        Presenting my research outside the university for the first time and receiving various questions and feedback really boosted my motivation. I was also delighted to receive the Student Paper Award.
+        This was my first time presenting my research outside my university. The questions and feedback gave me fresh motivation to continue my work, and I was delighted to receive the Student Paper Award.
     </div>
 </details>
 
-### Peer-Reviewed Journal Articles
+### 📑 Peer-Reviewed Journal Articles
 <details>
     <summary>
         <u>Ayane Morishita</u>, Tomosuke Ichioka, Mingyu Yang, and Yuko Hara, "<b>Hardware IP Protection Method Balancing Resilience to Diverse Functional Attacks</b>," IPSJ Journal, Vol. 67, No. 11, to appear, 2026.
     </summary>
     <div class="details-box">
-        Since the paper I presented at CSS2025 was selected as a recommended paper, I submitted an expanded version—incorporating additional experiments and analysis—to the IPSJ Journal.<br>
-        The paper has been officially accepted for publication (scheduled to appear in Vol. 67, No. 11). Notably, it received a rare recommendation for immediate acceptance from one reviewer during the first round of review.
+        My CSS2025 paper was recommended for submission to the IPSJ Journal, so I expanded it with additional experiments and analysis and submitted it.<br>
+        The paper has been accepted for publication in Vol. 67, No. 11, and I am preparing the final version for online publication. One reviewer recommended acceptance without revisions in the first round of review.
     </div>
 </details>
 
-### Seminars & Other Presentations
+### 💬 Seminars & Other Presentations
 <details>
     <summary>
-        Seminar Presentation at <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/secure-embedded-systems-hardware-architectures.html" target="_blank" rel="noopener">SESAM team</a>, <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html" target="_blank" rel="noopener">Hubert Curien Laboratory</a>, Jean Monnet University, Saint-Étienne, France, June 2026.<br>
+        Seminar for the <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/secure-embedded-systems-hardware-architectures.html" target="_blank" rel="noopener">SESAM team</a>, <a href="https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html" target="_blank" rel="noopener">Hubert Curien Laboratory</a>, Jean Monnet University, Saint-Étienne, France, June 2026.<br>
         Title: Hardware IP Protection Method Balancing Resilience to Diverse Functional Attacks
     </summary>
     <div class="details-box">
-        During my exchange program, I had the opportunity to visit the laboratory where my advisor is based and gave a seminar presentation on my research.
-        Since it was my first time giving a detailed presentation on my research in English and participating in a Q&A session, it was a very valuable experience.
+        During my exchange program, I visited my advisor’s laboratory and gave a seminar on my research.
+        It was my first time presenting my research in detail and answering questions in English, which made it a valuable learning experience.
     </div>
 </details>
 
-### Theses
+### 📔 Theses
 <details>
     <summary>
-        Bachelor's Thesis "機能攻撃耐性を持つハードウェアIP保護手法," Institute of Science Tokyo, July 2025 (<b>Half-year Early Graduation from Bachelor's Program</b>)
+        Bachelor’s thesis: "機能攻撃耐性を持つハードウェアIP保護手法" (Hardware IP Protection with Resilience to Functional Attacks), Institute of Science Tokyo, July 2025 (<b>completed my bachelor’s degree six months early</b>)
     </summary>
     <div class="details-box">
-        I managed to complete the entire process—reviewing prior research, proposing and conducting my own experiments, and writing the paper—in about three months. It was extremely challenging, but I gained the ability to quickly catch up in a new field, the ability to write a paper that anyone can understand, and the ability to break down complex concepts and explain them to others.
+        In about three months, I reviewed prior work, proposed and experimentally evaluated my own method, and wrote my thesis. It was demanding, but it taught me how to get up to speed quickly in a new field, write clearly for readers unfamiliar with my work, and explain complex ideas in accessible terms.
     </div>
 </details>
 
-## 🌎 International Experiences
+## 🌎 International Experience
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2025.02 - 2025.03</span><span class="resume-activity">Very Short-term Study Abroad Program (UK🇬🇧)</span></span>
+        <span class="resume-entry"><span class="resume-date">2025.02 - 2025.03</span><span class="resume-activity">Short-Term Study Abroad Program (UK 🇬🇧)</span></span>
     </summary>
     <div class="details-box">
-        I participated in this program during spring break, just before starting my senior year of college, and visited various universities and companies over the course of about 10 days. We wrote <a href="https://www.ghrd.titech.ac.jp/world/uk-sreport/" target="_blank" rel="noopener">a short report</a> and <a href="https://www.ghrd.titech.ac.jp/world/2025uk/" target="_blank" rel="noopener">a final report</a>.<br>
-        This experience sparked my interest in studying abroad, and I decided to pursue a long-term study abroad program.
+        During the spring break before my final undergraduate year, I spent about 10 days visiting universities and companies in the UK. You can read <a href="https://www.ghrd.titech.ac.jp/world/uk-sreport/" target="_blank" rel="noopener">a short report</a> and <a href="https://www.ghrd.titech.ac.jp/world/2025uk/" target="_blank" rel="noopener">a final report</a>.<br>
+        This experience made me eager to spend more time abroad and inspired me to apply for a longer exchange program.
     </div>
 </details>
 
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2026.02 - 2026.07</span><span class="resume-activity">Exchange Study Abroad Program (Ghent University, Belgium🇧🇪)</span></span>
+        <span class="resume-entry"><span class="resume-date">2026.02 - 2026.07</span><span class="resume-activity">Exchange Program (Ghent University, Belgium 🇧🇪)</span></span>
     </summary>
     <div class="details-box">
-        As a first step toward becoming a globally active professional, I applied for a long-term study abroad program.
-        I chose Ghent University in Belgium because of its welcoming environment that embraces diversity, the fact that English is widely spoken there, and the relatively small number of Japanese students.<br>
-        While taking classes at the Faculty of Engineering and Architecture, I interacted with a wide variety of people, including my dorm roommates, language exchange partners, and local students who are interested in Japan.
+        I applied for an exchange program as a first step toward working internationally.
+        I chose Ghent University in Belgium for its openness to diversity, the widespread use of English, and the relatively small number of Japanese students.<br>
+        Alongside courses in the Faculty of Engineering and Architecture, I got to know people from many backgrounds, including students on my dorm floor, language exchange partners, and local students interested in Japan.
     </div>
 </details>
 
-## 👥 Affiliation
+## 👥 Affiliations
 <details>
     <summary>
         <span class="resume-entry"><span class="resume-date">2022.04 - present</span><span class="resume-activity"><a href="https://trap.jp/" target="_blank" rel="noopener">Digital Creators Club traP</a></span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
-        When I was in high school, I was looking for a game development club and came across this club’s website. The moment I thought, “I want to join this…!” was what motivated me to apply to Institute of Science Tokyo. <br>
+        In high school, I came across traP’s website while looking for a game development club. Wanting to join was what first inspired me to aim for Institute of Science Tokyo. <br>
         <!-- When, Where, What, and How Did I Do It? -->
         <!-- What I Learned -->
-        After enrolling, I became more interested in computer technology in general than in game development, so I participated in various club activities.
-        In the SysAd group, I worked on web app development; in the CTF group, I participated in CTFs; in the Algorithms group, I did competitive programming; and in the Kaggle group, I worked on Kaggle challenges... By taking on these diverse activities, I was able to broaden my horizons.
+        After enrolling, my interests expanded from game development to computing more broadly, and I explored several groups within the club.
+        I tried web app development with the SysAd group, capture-the-flag (CTF) challenges with the CTF group, competitive programming with the Algorithms group, and Kaggle competitions with the Kaggle group. Exploring these different areas broadened my interests.
         I also draw illustrations in the Graphics group.
     </div>
 </details>
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2024.02 - present</span><span class="resume-activity">Institute of Science Tokyo - Science and Engineering fields Peer Supporter</span></span>
+        <span class="resume-entry"><span class="resume-date">2024.02 - present</span><span class="resume-activity">Peer Supporter for Science and Engineering Students, Institute of Science Tokyo</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
-        I applied because I thought I could draw on my somewhat unique experiences—such as transferring schools and commuting long distances—to contribute to the counseling activities. <br>
+        I applied because I thought my experiences of transferring between schools within the university and having a long commute could help me support other students. <br>
         <!-- When, Where, What, and How did I do? -->
-        In addition to in-person and online counseling sessions such as the “Spring New Student Counseling Session,” “Fall University Life Q&A Session,” and “Department-Specific Counseling Sessions,” we conduct a variety of activities, including a letter-based counseling initiative called “Peer-chan’s Reply Box” and “Gurutto!! Peer Note,” which promotes communication by visiting each campus on a monthly rotation. 
-        We also participate in “Peer no Wa,” an event where peer support groups from across the country gather, to research and implement better peer support practices.<br>
+        We offer in-person and online advice sessions for new students, general university life, and choosing a department. We also respond to written questions through “Peer-chan’s Reply Box” and run “Gurutto!! Peer Note,” a notebook that rotates between campuses each month to encourage students to connect.
+        We also take part in “Peer no Wa,” a national gathering of peer support groups, to exchange ideas and improve our support for students.<br>
         <!-- What I learned -->
         Through these experiences, I’ve improved my ability to listen actively and empathize with others.
     </div>
 </details>
 
 ## 🚀 Extracurricular Activities
-### Internships, Corporate Programs
+### 🏢 Internships & Corporate Programs
 <details>
     <summary>
         <span class="resume-entry"><span class="resume-date">2023.05 - 2023.06</span><span class="resume-activity">Google STEP Educational Course</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
-        I joined this program because it was recommended by a senior member of the Digital Creators Club traP.<br>
+        I joined on the recommendation of a senior member of traP.<br>
         <!-- When, Where What and How did I do? --> <!-- What I learned -->
-        Through three hours of lectures each week plus homework assignments, I was able to learn the fundamentals of computer science (mainly algorithms and data structures, computer architecture, etc.) and interact with students from other universities.
-        I participated in May and June of my second year of undergraduate studies, right after joining the department, so it was challenging since I had almost no specialized knowledge, but it was a program where I learned a great deal.<br>
-        Discovering the concept of "building an OS from scratch" during this program was the true starting point of my interest in low-level programming. Furthermore, the powerful affirmation of women—who are typically a minority in tech—studying computer science left a profound impression on me and continues to serve as a guiding mindset. It was a deeply meaningful program that I consider to be my origin in this field.
+        Through three hours of lectures each week and regular assignments, I learned computer science fundamentals, particularly algorithms, data structures, and computer architecture, and met students from other universities.
+        I took part in May and June of my second undergraduate year, just after entering my department. With little background in the subject, I found it challenging but learned a great deal.<br>
+        Learning that I could build my own operating system sparked my interest in low-level programming. The program’s strong encouragement of women in computing also left a lasting impression and still gives me confidence. It helped shape the path I have taken since.
     </div>
 </details>
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2024.05</span><span class="resume-activity">Merpay QA Summer Training Camp 2024 Training Program</span></span>
+        <span class="resume-entry"><span class="resume-date">2024.05</span><span class="resume-activity">Merpay QA Summer Training Camp 2024</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
-        I didn’t know much about the role of a QA engineer, so I decided to participate out of curiosity.
+        I was unfamiliar with the role of a quality assurance (QA) engineer and joined out of curiosity.<br>
         <!-- When, Where, What, and How did I do? -->
         <!-- What I learned -->
-        Learning the basics of software quality assurance has opened up more options for my future, but at this point, I don’t plan to become a QA engineer specializing solely in software.
+        Learning the basics of software quality assurance broadened my career options, though I’m not currently aiming for a QA role focused solely on software.
     </div>
 </details>
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2026.08 - 2026.09</span><span class="resume-activity">Sony Interactive Entertainment Inc. On-the-Job Internship S06.Quality Engineering</span></span>
+        <span class="resume-entry"><span class="resume-date">2026.08 - 2026.09</span><span class="resume-activity">Sony Interactive Entertainment — On-the-Job Internship, S06: Quality Engineering</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
-        I was approached by Labbase through their scouting program, and I applied because I was attracted by the opportunity to utilize my English skills and to work on both hardware and software.<br>
+        I received a recruiting message through Labbase and applied because the internship offered a chance to use my English skills and work with both hardware and software.<br>
         <!-- When, Where What and How did I do? -->
         <!-- What I learned -->
     </div>
 </details>
 
-### Technical Training & Workshops
+### 🛠️ Technical Training & Workshops
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2024.08</span><span class="resume-activity">Security Camp 2024 National Convention S09 Build Your Own Sanitizer seminar</span></span>
+        <span class="resume-entry"><span class="resume-date">2024.08</span><span class="resume-activity">Security Camp 2024 National Convention — S09: Build Your Own Sanitizer</span></span>
     </summary>
     <div class="details-box">
-        lecturer: <a href="https://github.com/m1kit" target="_blank" rel="noopener">@m1kit</a>, seminar peer: <a href="https://github.com/momeemt" target="_blank" rel="noopener">@momeemt</a><br>
-        For more details, please see <a href="https://trap.jp/post/2312/" target="_blank" rel="noopener">this blog post about the event</a> (Japanese article).
+        Instructor: <a href="https://github.com/m1kit" target="_blank" rel="noopener">@m1kit</a>; fellow participant: <a href="https://github.com/momeemt" target="_blank" rel="noopener">@momeemt</a><br>
+        Read more in <a href="https://trap.jp/post/2312/" target="_blank" rel="noopener">this blog post about the event</a> (in Japanese).
     </div>
 </details>
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2024.12</span><span class="resume-activity">Security Mini Camp in Ishikawa 2024 Workshop</span></span>
+        <span class="resume-entry"><span class="resume-date">2024.12</span><span class="resume-activity">Security Mini Camp in Ishikawa 2024 — Online Workshop</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
-        I applied because I was interested in the course content (especially reverse engineering). <br>
+        I applied because the topics, especially reverse engineering, interested me. <br>
         <!-- When, Where, What, and How did I do it? -->
         <!-- What I learned -->
-        It was great to learn the basics of web application security and binary analysis using Ghidra, and to have the opportunity to try my hand at a CTF.
+        I learned the basics of web application security and binary analysis with Ghidra, and had a chance to tackle CTF challenges.
     </div>
 </details>
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2025.08</span><span class="resume-activity">Security Camp 2025 National Convention Y Track Tutor</span></span>
+        <span class="resume-entry"><span class="resume-date">2025.08</span><span class="resume-activity">Security Camp 2025 National Convention — Y Track Tutor</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
-        Since participants are not eligible to attend unless at least five years have passed since they last participated in and completed an in-person Security Camp National Convention, I participated as a tutor this time. <br>
+        Having completed the in-person camp the previous year, I was not yet eligible to return as a student under its five-year waiting period, so I returned as a tutor. <br>
         <!-- When, Where, What, and How did I do? -->
         <!-- What I learned -->
-        Just like last year, the instructors, students, and tutors all possessed extremely high technical skills, which was very inspiring.
+        As in the previous year, I was inspired by the technical skills of the instructors, students, and fellow tutors.
     </div>
 </details>
 <details>
@@ -188,45 +188,45 @@ Items starting with “▶” can be clicked to display more details.
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
-        I applied because several people I know recommended it to me, and I thought it would be a great opportunity to intensively improve my low-level programming skills during the summer break. <br>
+        Several people I know recommended the program, and I saw it as a chance to focus on improving my low-level programming skills over the summer break. <br>
         <!-- When, Where, What, and How did I do it? -->
-        Basically, I implemented functions from the C standard library using the C language.
-        It was an interesting system where you couldn’t move on to the next assignment until you explained your code to others and convinced them of its correctness, which I believe was designed to ensure a deep understanding of the material. There were also team assignments. <br>
+        The assignments mainly involved reimplementing C standard library functions in C.
+        Before moving on to the next assignment, I had to explain my code to peers and demonstrate that it worked correctly. I found that this review process helped deepen my understanding. There were also team assignments. <br>
         <!-- What I learned -->
-        My commute was too long (over 5 hours round trip from home), so I couldn’t spend enough time at the school and wasn’t able to become a full-time student, but it was a very educational experience. If I have the opportunity, I would like to try again.
+        With a round-trip commute of over five hours, I couldn’t spend enough time on campus and did not progress to the main program. Still, I learned a lot and would like to try again if I have the chance.
     </div>
 </details>
 
-### Public Speaking & Outreach Activities
+### 🎙️ Public Speaking & Outreach
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2025.10</span><span class="resume-activity">Womens's Empowerment Forum 2025: Student Panelist</span></span>
+        <span class="resume-entry"><span class="resume-date">2025.10</span><span class="resume-activity">Women’s Empowerment Forum 2025: Student Panelist</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
         <!-- When, Where, What, and How did I do it? -->
-        I spoke to high school girls interested in Tokyo University of Science about my student life and my goals. <br>
+        I shared my experiences of university life and my goals with high school girls interested in Institute of Science Tokyo. <br>
         <!-- What I learned -->
-        There is a <a href="https://www.isct.ac.jp/ja/news/onw6vkwy6k6f" target="_blank" rel="noopener">report article</a> (Japanese version only).
+        Read the <a href="https://www.isct.ac.jp/ja/news/onw6vkwy6k6f" target="_blank" rel="noopener">event report</a> (in Japanese).
     </div>
 </details>
 <details>
     <summary>
-        <span class="resume-entry"><span class="resume-date">2026.07</span><span class="resume-activity">Institute of Science Tokyo (Science and Engineering Field) University Information Session for Regional High School Students 2026: Student Panelist</span></span>
+        <span class="resume-entry"><span class="resume-date">2026.07</span><span class="resume-activity">Institute of Science Tokyo — 2026 Science and Engineering Information Session for High School Students from Across Japan: Student Panelist</span></span>
     </summary>
     <div class="details-box">
         <!-- Why did I participate? -->
         <!-- When, Where What and How did I do? -->
-        I spoke to regional high school students interested in Tokyo University of Science about my student life and my goals. <br>
+        I shared my experiences of university life and my goals with high school students living in regional areas of Japan who were interested in Institute of Science Tokyo. <br>
         <!-- What I learned -->
-        There is a <a href="https://admissions.isct.ac.jp/ja/news/2ciyilcruhuq" target="_blank" rel="noopener">report article</a> (Japanese version only).
+        Read the <a href="https://admissions.isct.ac.jp/ja/news/2ciyilcruhuq" target="_blank" rel="noopener">event report</a> (in Japanese).
     </div>
 </details>
 
-## 📜 Certifications
-- TOEIC L&R: 865 points (2025.08)
-- TOEFL-ITP: 557 points (2024.04)
-- Global Scientists and Engineers Course (GSEC): Completed Basic and Intermediate levels
+## 📜 Qualifications & Test Scores
+- TOEIC Listening & Reading: 865 (2025.08)
+- TOEFL ITP: 557 (2024.04)
+- Global Scientists and Engineers Course (GSEC): Completed the basic and intermediate levels
 
 ## 🔗 Links
 - Blog: [https://trap.jp/author/jippo/](https://trap.jp/author/jippo/)

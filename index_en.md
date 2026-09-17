@@ -7,38 +7,36 @@ lang: en
 # 🏠 HOME
 
 Thank you for visiting my website!<br>
-My detailed work history can be found on the [“Resume”](https://jippo-m.github.io/resume_en.html) page. <!-- and my portfolio is available on the [“Works”](https://jippo-m.github.io/works_en.html) page. --> 
+You can find more about my education, research, and activities on the [Resume](https://jippo-m.github.io/resume_en.html) page. <!-- My projects are featured on the [Works](https://jippo-m.github.io/works_en.html) page. -->
 
 ## 🌟 About Me
 
-I am currently enrolled in the master’s program at Institute of Science Tokyo (School of Engineering, Department of Information and Communications), where I am conducting research on Hardware Security. I also participated in an exchange program at Ghent University in Belgium from February to July 2026.
+I am a master’s student in Information and Communications Engineering at Institute of Science Tokyo’s School of Engineering, where I research hardware security. From February to July 2026, I studied at Ghent University in Belgium as an exchange student.
 
-My strengths are **“intellectual curiosity” and “the ability to take immediate action.”** I dive right into fields that interest me and have actively pursued unconventional activities, such as participating in computer science-related events (including the Google STEP Education Course and the National Security Camp) and engaging in international exchange through study abroad programs.
-While I possess a strong drive for personal exploration, my sense of responsibility sometimes leads me to try to solve problems on my own, which can cause me to take on too much. Therefore, I am currently practicing teamwork by consciously seeking input from others to achieve greater results.
+My strengths are **intellectual curiosity and a readiness to act on it**. When something interests me, I jump in and explore it. This has led me to a wide range of experiences, from computer science programs such as the Google STEP Educational Course and Security Camp in Japan to studying abroad and meeting people from different backgrounds.
+I enjoy exploring ideas independently, but my sense of responsibility sometimes leads me to take on too much on my own. I’m learning to ask for help when I need it and draw on others’ knowledge so we can achieve more together.
 
-Moving forward, I intend to continue pursuing specialized knowledge and taking on challenges in a global environment.
+I hope to keep deepening my expertise and taking on new challenges in international settings.
 
 ## 🔭 Career Vision
-Going forward, I aim to delve deeper into the inner workings of computers and engage in research and development that maximizes their potential.
-To me, computers are like magic, and my curiosity to learn more about them is endless. Moving beyond the expertise in hardware and low-level software I have cultivated through my research so far, I intend to **broadly absorb technologies across various layers**—including software engineering, machine learning, and cybersecurity—to create new value.
+I want to understand more deeply how computers work and pursue research and development that explores their full potential.
+Computers feel like magic to me, and there is always more I want to learn. Building on my research experience in hardware and low-level software, I want to **broaden my skills across the computing stack**, including software engineering, machine learning, and cybersecurity, and use that knowledge to create something new.
 
-Furthermore, through my current exchange program in Europe, I have discovered the joy of collaborating with people from diverse backgrounds and the satisfaction of broadening my horizons. To build on this experience and stand at the forefront of international technical collaboration, I am considering participating in programs such as Vulcanus in Europe and the Global Cybersecurity Camp (GCC) in the future.
+My exchange experience in Europe showed me how much I enjoy collaborating with people from different backgrounds and seeing things from new perspectives. To build on that experience and become more involved in international technical collaboration, I’m considering programs such as Vulcanus in Europe and the Global Cybersecurity Camp (GCC).
 
-Ultimately, I hope to **contribute to the world as a researcher or developer with a global perspective**, working toward the realization of a society where everyone can safely enjoy the benefits of technology and live healthy, happy lives.
+Ultimately, I hope to **contribute as a researcher or developer with a global outlook**, helping build a society where everyone can benefit from technology safely and lead healthy, happy lives.
 
 ## 🔧 Skills
 ### 💻 Programming Languages
-- **C**, **Python**：Primarily used for research (such as algorithm implementation) and in classes. These are the languages I use most frequently.
-- Rust, C++：Driven by an interest in low-level programming, I’m currently using these languages to learn how to build my own operating system (I read through books bit by bit and copy out the code whenever I have time).
-- Go, JavaScript (HTML/CSS)：Used for building web applications at hackathons.
+- **C**, **Python**: My most frequently used languages for research and coursework, including algorithm implementation.
+- Rust, C++: I use these to learn about building operating systems, working through books and their code examples in my spare time.
+- Go, JavaScript, HTML/CSS: Used to build web applications at hackathons.
 
 ### 🥼 Research & Hardware Tools
-- **Design Compiler**: Used for circuit analysis and logic synthesis.
-- **LaTeX**: Used for writing academic papers for conference presentations.
-- **Verilog HDL manipulation** (using Python, etc.): Gained experience analyzing and partially modifying target Verilog circuits via scripting during the implementation of logic locking. Able to read and understand basic circuit logic.
+- **Design Compiler**: Circuit analysis and logic synthesis.
+- **LaTeX**: Writing research papers for conferences.
+- **Verilog HDL**: Experience using scripts, mainly in Python, to analyze and modify Verilog circuits when implementing logic locking. I can read and understand basic Verilog circuit descriptions.
 
-### 🔧 Frameworks & Dev Tools
-- **Git** / **GitHub**：Source code version control for individual and team development.
-- Vue.js：Used for building web applications at hackathons.
-
-
+### 🛠 Frameworks & Development Tools
+- **Git** / **GitHub**: Version control for personal and team projects.
+- Vue.js: Used to build web applications at hackathons.
